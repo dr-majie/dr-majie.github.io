@@ -1,4 +1,3 @@
-
 # 📝 Publications 
 ## Featured Publications
 
@@ -27,13 +26,14 @@
 - [Density core-based clustering algorithm with dynamic scanning radius](https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579), Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, **JieMa**, Knowledge-Based Systems **(KBS)**, 2018.
 
 ## Multimodality Learning
-- [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/), **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng, IEEE Transactions on Image Processing **(IEEE TIP)**, 2022.
-- [Multitask Learning for Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/9525040), **Jie Ma**, Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
-- [XTQA: Span-Level Explanations of the Textbook Question Answering](https://arxiv.org/abs/2011.12662), **Jie Ma**, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang, ArXiv, 2020.
-- [Fine-Grained 3D-Attention Prototypes for Few-Shot Learning](https://direct.mit.edu/neco/article-abstract/32/9/1664/95601), Xin Hu, Jun Liu, **Jie Ma**, Yudai Pan, Lingling Zhang, Neural Computation, 2020.
 <div>
 	<ul>
-	<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, and Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(TNNLS)</b>, 2021.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2021.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9525040'>Multitask Learning for Visual Question Answering</a>, <b>Jie Ma</b>,Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, and Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://arxiv.org/abs/2011.12662'>XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang. ArXiv, 2020.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://direct.mit.edu/neco/article-abstract/32/9/1664/95601'>Fine-Grained 3D-Attention Prototypes for Few-Shot Learning</a>, Xin Hu, Jun Liu, <b>Jie Ma</b>, Yudai Pan, Lingling Zhang. ArXiv, 2020.</p></li>
+
 	</ul>
 </div>
 ## Natural Languages Processing
