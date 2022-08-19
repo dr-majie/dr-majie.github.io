@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Ma (马杰)"
+title                    : "Jie Ma (马杰个人主页)"
 description              : "Assistant Professor in Faculty of Electronic and Information Engineering"
 repository               : "dr-majie/dr-majie.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  code-2dMW6Q8qZh # get baidu_site_verification from h
 
 # Site Author
 author:
-  name             : "Jie Ma"
+  name             : "Jie Ma (马杰)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Xi'an Jiaotong University"
   location         : "Xi'an, Shannxi, China"
