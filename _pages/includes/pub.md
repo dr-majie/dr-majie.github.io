@@ -27,7 +27,7 @@
 - [Density core-based clustering algorithm with dynamic scanning radius](https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579), Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, **JieMa**, Knowledge-Based Systems **(KBS)**, 2018.
 
 ## Multimodality Learning
-- [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/), **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng, IEEE Transactions on Image Processing **(IEEE TIP)**, 2022.
+- <p align='justify'> [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/), **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng, IEEE Transactions on Image Processing **(IEEE TIP)**, 2022. </p>
 - [Multitask Learning for Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/9525040), **Jie Ma**, Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
 - [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/), **Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
 - [XTQA: Span-Level Explanations of the Textbook Question Answering](https://arxiv.org/abs/2011.12662), **Jie Ma**, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang, ArXiv, 2020.
