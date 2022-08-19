@@ -17,7 +17,7 @@
 <div class='paper-box-text' markdown="1">
 
 - [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/), \\
-**Jie **, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
+**Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
 
 [**Project**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 </div>
@@ -30,7 +30,7 @@
 - [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/), **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng, IEEE Transactions on Image Processing **(IEEE TIP)**, 2022.
 - [Multitask Learning for Visual Question Answering](https://ieeexplore.ieee.org/abstract/document/9525040), **Jie Ma**, Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
 - [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/), **Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu, IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**, 2021.
-- [XTQA: Span-Level Explanations of the Textbook Question Answering](https://arxiv.org/abs/2011.12662), Jie Ma, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang, ArXiv, 2020.
+- [XTQA: Span-Level Explanations of the Textbook Question Answering](https://arxiv.org/abs/2011.12662), **Jie Ma**, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang, ArXiv, 2020.
 - [Fine-Grained 3D-Attention Prototypes for Few-Shot Learning](https://direct.mit.edu/neco/article-abstract/32/9/1664/95601), Xin Hu, Jun Liu, **Jie Ma**, Yudai Pan, Lingling Zhang, Neural Computation, 2020.
 
 ## Natural Languages Processing
