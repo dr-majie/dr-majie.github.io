@@ -2,19 +2,20 @@
 ## Featured Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2021</div><img src='images/featuredpub/tip2021.png' alt="sym" width="100%"></div></div>
-<div markdown="1">
-	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2022. <a href='https://github.com/dr-majie/WSTQ'>Code</a> <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong> </p></li>
-	</ul>
+<div class='paper-box-text' markdown="1">
+
+[Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/') \\
+**Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
+
+[Code](https://github.com/dr-majie/WSTQ)<strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong>
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021</div><img src='images/featuredpub/tnnls2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021. <a href='https://github.com/dr-majie/2019-mytqa/'>Code</a> <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong></p></li>
-	</ul>
+	<p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021. <a href='https://github.com/dr-majie/2019-mytqa/'>Code</a> <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong></p>
+
 [**Project**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong>
 </div>
 </div>
