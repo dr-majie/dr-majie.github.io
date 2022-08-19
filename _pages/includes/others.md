@@ -12,5 +12,5 @@
 - *2021.07 - 2021.10*, Applied Scientist at Amazon.
 
 # 🌏 Visitors
-<a href="https://clustrmaps.com/site/1bmij" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=YG8B7pzv_G-mlx6bjDboAhC94R2P2UjBQJcwDPniMnI" /></a>
+<a href="https://clustrmaps.com/site/1bmij" title="Visit tracker"><img style="width:100%; height:auto; overflow:hidden;" src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=YG8B7pzv_G-mlx6bjDboAhC94R2P2UjBQJcwDPniMnI" /></a>
 
