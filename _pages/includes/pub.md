@@ -40,6 +40,15 @@
 - [Distinguished representation of identical mentions in bio-entity coreference resolution](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01862-1), Yufei Li, Xiangyu Zhou, **Jie Ma**, Xiaoyong Ma, Pengzhen Cheng, Tieliang Gong, Chen Li, BMC Medical Informatics and Decision Making, 2022.
 - [Rule-enhanced iterative complementation for knowledge graph reasoning](), Qika Lin, Jun Liu, Yudai Pan, Lingling Zhang, Xin Hu, **Jie Ma**, Information Sciences, 2021.
 - [Jointly Optimized Neural Coreference Resolution with Mutual Attention](https://dl.acm.org/doi/abs/10.1145/3336191.3371787), **Jie Ma**, Jun Liu, Yufei Li, Xin Hu, Yudai Pan, Shen Sun, Qika Lin, International Conference on Web Search and Data Mining **(WSDM)**, 2020.
+<div>
+	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01862-1'>Distinguished representation of identical mentions in bio-entity coreference resolution</a>, Yufei Li, Xiangyu Zhou, <b>Jie Ma</b>, Xiaoyong Ma, Pengzhen Cheng, Tieliang Gong, Chen Li. BMC Medical Informatics and Decision Making, 2022.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://www.sciencedirect.com/science/article/pii/S0020025521006319>Rule-enhanced iterative complementation for knowledge graph reasoning</a>, Qika Lin, Jun Liu, Yudai Pan, Lingling Zhang, Xin Hu, <b>Jie Ma</b>. Information Sciences, 2021.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://dl.acm.org/doi/abs/10.1145/3336191.3371787'>Jointly Optimized Neural Coreference Resolution with Mutual Attention</a>, <b>Jie Ma</b>, Jun Liu, Yufei Li, Xin Hu, Yudai Pan, Shen Sun, Qika Lin. International Conference on Web Search and Data Mining <b>(WSDM)</b>, 2020.</p></li>
+
+	</ul>
+</div>
+
 
 ## Reliable Multimodality Learning
 - [Stochastic batch augmentation with an effective distilled dynamic soft label regularizer](https://arxiv.org/abs/2006.15284), Qian Li, Qingyuan Hu, Yong Qi, Saiyu Qi, **Jie Ma**, Jian Zhang, International Joint Conferences on Artificial Intelligence **(IJCAI)**, 2020.
