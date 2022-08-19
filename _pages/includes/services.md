@@ -6,5 +6,5 @@
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ## Conference Reviewer
-- International Conference on Learning Representations (ICLR): 2020
 - AAAI Conference on Artificial Intelligence (AAAI): 2022
+- International Conference on Learning Representations (ICLR): 2020
