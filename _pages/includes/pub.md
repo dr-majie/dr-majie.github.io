@@ -32,7 +32,7 @@
 ## Multimodality Learning
 <div>
 	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2022.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2022.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9525040'>Multitask Learning for Visual Question Answering</a>, <b>Jie Ma</b>,Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, and Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a href='https://arxiv.org/abs/2011.12662'>XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang. ArXiv, 2020.</p></li>
