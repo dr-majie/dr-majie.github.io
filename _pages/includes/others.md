@@ -10,5 +10,3 @@
 
 # 💻 Internships
 - *2021.07 - 2021.10*, Applied Scientist at Amazon.
-
-# 🌏 Visitors
