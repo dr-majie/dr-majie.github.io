@@ -12,4 +12,3 @@
 - *2021.07 - 2021.10*, Applied Scientist at Amazon.
 
 # 🌏 Visitors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YG8B7pzv_G-mlx6bjDboAhC94R2P2UjBQJcwDPniMnI"></script>
