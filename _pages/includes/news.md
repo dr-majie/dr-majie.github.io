@@ -1,4 +1,5 @@
 # 📰 News
+- [08/2022] I served as Program Committee Member for AAAI 2022.
 - [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
 - [04/2022] I ended my visiting at National University of Singapore.
 - [01/2022] I obtained an offer from Huawei Noah's Ark Lab.
