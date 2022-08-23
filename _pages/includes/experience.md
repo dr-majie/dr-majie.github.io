@@ -1,2 +1,0 @@
-# 💼 Work Experience
-- *2022.10 - Present*, Assistant Professor (Post-doctoral Fellow), Faculty of Electronic and Information Engineering. Co-Advisor: Xiaohong Guan and [Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang).

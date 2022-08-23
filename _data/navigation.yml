@@ -14,15 +14,15 @@ main:
     
   - title: "Work Experience"
     url: "/#-experience"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
 
   - title: "Educations"
     url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
+    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
     
   - title: "Visitors"
     url: "/#-visitors"

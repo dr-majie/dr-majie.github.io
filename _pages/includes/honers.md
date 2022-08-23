@@ -1,4 +1,3 @@
-
 # 🎖 Honors and Awards
 - *2022.07* Study Abroad Scholarships & Grants (Top 1%)
 - *2019.11* High-Quality Product Award (Top 1%)
