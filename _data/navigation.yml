@@ -11,6 +11,9 @@ main:
     
   - title: "Services"
     url: "/#-services"
+  
+  - title: "Work Experience"
+    url: "/#-work-experience"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
