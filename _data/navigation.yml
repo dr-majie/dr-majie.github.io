@@ -12,14 +12,17 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
   - title: "Educations"
     url: "/#-educations"
+    
+  - title: "Work Experience"
+    url: "/#-experience"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
+    
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
     
   - title: "Visitors"
     url: "/#-visitors"

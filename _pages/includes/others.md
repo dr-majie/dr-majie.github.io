@@ -5,6 +5,9 @@
 - *2015.09 - 2018.06*, MEng in CST, Chongqing University. Supervisor: [Zhongyang Xiong](http://www.cs.cqu.edu.cn/info/1319/4134.htm)
 - *2011.09 - 2015.06*, BSc in CST, Lanzhou University of Technology.
 
+# 💼 Work Experience
+- *2022.10 - Present*, Assistant Professor (Post-doctoral Fellow), Faculty of Electronic and Information Engineering. Co-Advisor: Xiaohong Guan and [Pinghui Wang](https://gr.xjtu.edu.cn/en/web/phwang).
+
 # 💬 Invited Talks
 - *2020.02*, Jointly Optimized Neural Coreference Resolution with Mutual Attention, WSDM Conference.
 
