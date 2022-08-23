@@ -12,6 +12,9 @@ main:
   - title: "Services"
     url: "/#-services"
     
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+    
   - title: "Work Experience"
     url: "/#-experience"
 
@@ -20,9 +23,6 @@ main:
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
-    
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
     
   - title: "Visitors"
     url: "/#-visitors"
