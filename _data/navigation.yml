@@ -11,18 +11,18 @@ main:
     
   - title: "Services"
     url: "/#-services"
-
-  - title: "Educations"
-    url: "/#-educations"
     
   - title: "Work Experience"
-    url: "/#-work-experience"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#-experience"
     
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
+
+  - title: "Educations"
+    url: "/#-educations"
+
+  - title: "Invited Talks"
+    url: "/#-invited-talks"
     
   - title: "Visitors"
     url: "/#-visitors"
