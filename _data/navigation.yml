@@ -11,3 +11,6 @@ main:
     
   - title: "Services"
     url: "/#-services"
+  
+  - title: "Work Experience"
+    url: "/#-work-experience"

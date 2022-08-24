@@ -17,3 +17,5 @@ redirect_from:
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/services.md %}
+
+{% include_relative includes/others.md %}
