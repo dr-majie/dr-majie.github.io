@@ -26,6 +26,8 @@
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://bar.cnki.net/bar/download/order?id=jBGETXBNdPImvx70aLAuJPYxPoFw%2bp%2bi0fIiSrcN6lXyf00j36qNkNbvhA43jvmJkSJjWy3W0i%2b8K1%2b7%2bDUhfDnQrP31sd3qbIpJim%2fvA8Tl8E%2bCUVp5GtDTYhVF2dNUoJeGx62Ssygg68TNXJ%2b5JrigejDAar8Xqw%2f6WR22OFXUdUGh4At8VBYSvh%2fCUD5aBLFfT5zmbZvS1FhVJEGU%2fNMZPK7r8SkzdHAIYiediGz5LXYX1qwFXwOc1HUZT%2bTB</a>, 麻珂欣, 魏笔凡, <b>马杰</b>, 刘均, 黄毅, 胡珉, 冯俊兰. 大数据, 2020. </p></li>
+
 	</ul>
 </div>
 
