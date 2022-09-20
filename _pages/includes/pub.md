@@ -25,9 +25,8 @@
 ## Data Mining
 <div>
 	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://kns.cnki.net/kns8/defaultresult/index'>知识主题间先序关系挖掘</a>, 麻珂欣, 魏笔凡, <b>马杰</b>, 刘均, 黄毅, 胡珉, 冯俊兰. 大数据, 2020. </p></li>
-
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
 	</ul>
 </div>
 
@@ -38,7 +37,7 @@
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9525040'>Multitask Learning for Visual Question Answering</a>, <b>Jie Ma</b>,Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, and Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2011.12662'>XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang. ArXiv, 2020.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://direct.mit.edu/neco/article-abstract/32/9/1664/95601'>Fine-Grained 3D-Attention Prototypes for Few-Shot Learning</a>, Xin Hu, Jun Liu, <b>Jie Ma</b>, Yudai Pan, Lingling Zhang. ArXiv, 2020.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://direct.mit.edu/neco/article-abstract/32/9/1664/95601'>Fine-Grained 3D-Attention Prototypes for Few-Shot Learning</a>, Xin Hu, Jun Liu, <b>Jie Ma</b>, Yudai Pan, Lingling Zhang. Neural Computation, 2020.</p></li>
 
 	</ul>
 </div>
