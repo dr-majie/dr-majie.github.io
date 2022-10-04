@@ -12,7 +12,7 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2021</div><img src='images/featuredpub/tnnls2021.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2021</div><img src='images/featuredpub/tnnls2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/) \\
