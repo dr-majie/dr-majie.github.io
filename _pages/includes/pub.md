@@ -22,14 +22,6 @@
 </div>
 </div>
 
-## Data Mining
-<div>
-	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://kns.cnki.net/kns8/defaultresult/index'>知识主题间先序关系挖掘</a>, 麻珂欣, 魏笔凡, <b>马杰</b>, 刘均, 黄毅, 胡珉, 冯俊兰. 大数据, 2020. </p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
-	</ul>
-</div>
-
 ## Multimodality Learning
 <div>
 	<ul>
@@ -57,5 +49,13 @@
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2006.15284'>Stochastic Batch Augmentation with an Effective Distilled Dynamic Soft Label Regularizer</a>, Qian Li, Qingyuan Hu, Yong Qi, Saiyu Qi, <b>Jie Ma</b>, Jian Zhang. International Joint Conferences on Artificial Intelligence <b>(IJCAI)</b>, 2020.</p></li>
+	</ul>
+</div>
+
+## Data Mining
+<div>
+	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://kns.cnki.net/kns8/defaultresult/index'>知识主题间先序关系挖掘</a>, 麻珂欣, 魏笔凡, <b>马杰</b>, 刘均, 黄毅, 胡珉, 冯俊兰. 大数据, 2020. </p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
 	</ul>
 </div>
