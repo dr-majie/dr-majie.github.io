@@ -4,6 +4,7 @@
 ---
 ### Journal Reviewer
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Frontiers of Computer Science
 
 ### Conference Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI): 2023
