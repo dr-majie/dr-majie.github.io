@@ -28,6 +28,11 @@ REliable Multimodality Learning Group pronunced as [`reml] group.
     <td>2022</td>
 	<td>2022</td>
   </tr>
+    <tr>
+    <td>bningxu@163.com</td>
+    <td></td>
+	<td>ljh2024@foxmail.com</td>
+  </tr>
 </table>
 
 # 🌏 Visitors
