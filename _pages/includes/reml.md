@@ -1,6 +1,6 @@
 # 🥼 REML Group (REliable Multimodality Learning)
 
-## graduate student
+## Graduate student
 <table>
   <tr>
     <td>Dechen Kong</td>
@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-## undergraduate
+## Undergraduate
 <table>
   <tr>
     <td>Beining Xu</td>
