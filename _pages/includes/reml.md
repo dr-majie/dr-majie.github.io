@@ -3,8 +3,8 @@
 ## Graduate student
 <table>
   <tr>
-    <td>Dechen Kong</td>
-    <td>Zewei Wang</td>
+    <td>Dechen Kong (1515727645@qq.com)</td>
+    <td>Zewei Wang (wangzewei0420@foxmail.com)</td>
   </tr>
   <tr>
     <td>2022</td>
