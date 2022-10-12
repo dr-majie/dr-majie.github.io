@@ -30,7 +30,7 @@ REliable Multimodality Learning Group pronunced as [`reml] group.
   </tr>
     <tr>
     <td>bningxu@163.com</td>
-    <td></td>
+    <td>cjxmay5@163.com</td>
 	<td>ljh2024@foxmail.com</td>
   </tr>
 </table>
