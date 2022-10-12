@@ -7,7 +7,7 @@
 [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/') \\
 **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
 
-[Code](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong>
+[**Code**](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong>
 </div>
 </div>
 
