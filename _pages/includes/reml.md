@@ -1,5 +1,5 @@
 # 🥼 REML Group 
-REliable Multimodality Learning Group pronunced as ['reml] group.
+REliable Multimodality Learning Group pronunced as [`reml] group.
 ## Graduate student
 <table>
   <tr>
