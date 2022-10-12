@@ -4,10 +4,10 @@
 <table>
   <tr>
     <td>Dechen Kong</td>
-    <td>2022</td>
+    <td>Zewei Wang</td>
   </tr>
   <tr>
-    <td>Zewei Wang</td>
+    <td>2022</td>
     <td>2022</td>
   </tr>
 </table>
@@ -16,15 +16,13 @@
 <table>
   <tr>
     <td>Beining Xu</td>
-    <td>2022</td>
-  </tr>
-  <tr>
     <td>Jiaxi Cao</td>
-    <td>2022</td>
+	<td>Junhao Li</td>
   </tr>
   <tr>
-    <td>Junhao Li</td>
     <td>2022</td>
+    <td>2022</td>
+	<td>2022</td>
   </tr>
 </table>
 
