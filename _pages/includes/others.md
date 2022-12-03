@@ -9,6 +9,7 @@
 
 # 💬 Invited Talks
 - *2020.02*, Jointly Optimized Neural Coreference Resolution with Mutual Attention, WSDM Conference.
+- *2022.12*, Textbook Question Answering for Online Education, WISA conference.
 
 # 💻 Internships
 - *2021.07 - 2021.10*, Applied Scientist at Amazon.
