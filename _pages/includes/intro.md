@@ -2,4 +2,4 @@
 
 <p align='justify'>He served as the Program Committee member for many conferences such as the International Conference on Learning Representations (ICLR), the AAAI Conference on Artificial Intelligence (AAAI), and reviewers for many Journals such as IEEE TIP and IEEE TNNLS. Furthermore, he has rich industrial experience such as in Amazon and Huawei Noah Ark's Lab.</p>
 
-<p align='justify'>He is willing to collaborate with other people or businesses to explore interesting and valuable areas. Please feel free to contact him (email: dr.majie@foxmail.com). </p>
+<p align='justify'>He is willing to collaborate with other people or businesses to explore interesting and valuable areas. Please feel free to contact him (email: jiema@xjtu.edu.cn). </p>
