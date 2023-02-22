@@ -25,6 +25,7 @@
 ## Multimodality Learning
 <div>
 	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/pii/S0031320323000961'>Dynamic Dual Graph Networks for Textbook Question Answering</a>, Yaxian Wang, Jun Liu, <b>Jie Ma</b>, Hongwei Zeng, Lingling Zhang, Junjun Li. Pattern Recognition <b>(PR)</b>, 2023.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2022.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9525040'>Multitask Learning for Visual Question Answering</a>, <b>Jie Ma</b>,Jun Liu, Qika Lin, Bei Wu, Yaxian Wang, Yang You. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9466370/'>Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Yaxian Wang, Junjun Li, and Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems <b>(IEEE TNNLS)</b>, 2021.</p></li>
