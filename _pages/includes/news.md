@@ -1,6 +1,7 @@
 # 📰 News
+- [02/2022] I served as a Program Committee Member for IJCAI 2023.
 - [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
-- [08/2022] I served as Program Committee Member for AAAI 2023.
+- [08/2022] I served as a Program Committee Member for AAAI 2023.
 - [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
 - [04/2022] I ended my visiting at National University of Singapore.
 - [01/2022] I obtained an offer from Huawei Noah's Ark Lab.
