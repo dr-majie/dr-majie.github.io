@@ -1,5 +1,5 @@
 # 📰 News
-- [02/2022] I served as a Program Committee Member for IJCAI 2023.
+- [02/2023] I served as a Program Committee Member for IJCAI 2023.
 - [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
 - [08/2022] I served as a Program Committee Member for AAAI 2023.
 - [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
@@ -11,6 +11,7 @@
 <details>
   <summary>More News</summary>
   <pre> 
+  9. [02/2023] I served as a Program Committee Member for IJCAI 2023.
   8. [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
   7. [08/2022] I served as Program Committee Member for AAAI 2023.
   6. [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
