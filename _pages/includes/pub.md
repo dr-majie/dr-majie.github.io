@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2022</div><img src='images/featuredpub/tip2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9794290/') \\
+[Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/document/9794290) \\
 **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
 
 [**Code**](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong>
