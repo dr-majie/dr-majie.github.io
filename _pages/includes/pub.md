@@ -7,7 +7,7 @@
 [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/document/9794290) \\
 **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
 
-[**Code**](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong>
+<!-- [**Code**](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong> -->
 </div>
 </div>
 
@@ -18,7 +18,7 @@
 [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/) \\
 **Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**
 
-[**Code**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong>
+<!-- [**Code**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong> -->
 </div>
 </div>
 
