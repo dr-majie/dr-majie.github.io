@@ -60,3 +60,12 @@
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/abs/pii/S0950705117305579'>Density Core-based Clustering Algorithm with Dynamic Scanning Radius</a>, Jiang Xie, Zhongyang Xiong, Yufang Zhang, Yong Feng, <b>JieMa</b>. Knowledge-Based Systems <b>(KBS)</b>, 2018. </p></li>
 	</ul>
 </div>
+
+## PrePrint
+<div>
+	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2011.12662'>XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang. ArXiv, 2020.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han. ArXiv, 2023.</p></li>
+
+	</ul>
+</div>
