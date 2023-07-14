@@ -9,6 +9,6 @@
 - Frontiers of Computer Science
 
 ### Conference Reviewer
-- AAAI Conference on Artificial Intelligence (AAAI): 2023
+- AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
 - International Joint Conference on Artificial Intelligence (IJCAI): 2023
 - International Conference on Learning Representations (ICLR): 2020

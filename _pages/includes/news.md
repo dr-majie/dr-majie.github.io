@@ -1,4 +1,5 @@
 # 📰 News
+- [07/2023] I served as a Program Committee Member for AAAI 2024.
 - [02/2023] I served as a Program Committee Member for IJCAI 2023.
 - [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
 - [08/2022] I served as a Program Committee Member for AAAI 2023.
