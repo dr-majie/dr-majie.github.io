@@ -21,14 +21,14 @@
 <!-- [**Code**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong> -->
 </div>
 </div>
-## PrePrint
+## PrePrint Papers
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han. ArXiv, 2023.</p></li>
 
 	</ul>
 </div>
-
+## Published or Accepted Papers
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' >XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b> Jie Ma </b>, Qi Chai, Jun Liu, Qingyu Yin, Pinghui Wang, Qinghua Zheng. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023.</p></li>
