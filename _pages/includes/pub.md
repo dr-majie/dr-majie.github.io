@@ -21,9 +21,17 @@
 <!-- [**Code**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong> -->
 </div>
 </div>
+## PrePrint
+<div>
+	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han. ArXiv, 2023.</p></li>
+
+	</ul>
+</div>
 
 <div>
 	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' >XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b> Jie Ma </b>, Qi Chai, Jun Liu, Qingyu Yin, Pinghui Wang, Qinghua Zheng. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://www.sciencedirect.com/science/article/pii/S0031320323000961'>Dynamic Dual Graph Networks for Textbook Question Answering</a>, Yaxian Wang, Jun Liu, <b>Jie Ma</b>, Hongwei Zeng, Lingling Zhang, Junjun Li. Pattern Recognition <b>(PR)</b>, 2023.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/abstract/document/9794290/'>Weakly Supervised Learning for Textbook Question Answering</a>, <b>Jie Ma</b>, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing <b>(IEEE TIP)</b>, 2022.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-022-01862-1'>Distinguished Representation of Identical Mentions in Bio-entity Coreference Resolution</a>, Yufei Li, Xiangyu Zhou, <b>Jie Ma</b>, Xiaoyong Ma, Pengzhen Cheng, Tieliang Gong, Chen Li. BMC Medical Informatics and Decision Making, 2022.</p></li>
@@ -38,11 +46,3 @@
 	</ul>
 </div>
 
-## PrePrint
-<div>
-	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2011.12662'>XTQA: Span-Level Explanations of the Textbook Question Answering</a>, <b>Jie Ma</b>, Jun Liu, Junjun Li, Qinghua Zheng, Qingyu Yin, Jianlong Zhou, Yi Huang. ArXiv, 2020.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han. ArXiv, 2023.</p></li>
-
-	</ul>
-</div>
