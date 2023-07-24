@@ -24,9 +24,8 @@
 ## Preprint Papers
 <div>
 	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. ArXiv, 2023.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2307.11471'>Robust Visual Question Answering: Datasets, Methods, and Future Challenges</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu. ArXiv, 2023.</p></li>
-
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2307.11471'>Robust Visual Question Answering: Datasets, Methods, and Future Challenges</a>, <b>Jie Ma</b>, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao.  ArXiv, 2023.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>, <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu. ArXiv, 2023.</p></li>
 	</ul>
 </div>
 ## Published or Accepted Papers
