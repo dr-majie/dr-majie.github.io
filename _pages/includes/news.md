@@ -9,10 +9,11 @@
 - [01/2022] I obtained an offer from Huawei Noah's Ark Lab.
 - [10/2021] I ended the internship at Amazon.
 - [07/2021] I was an applied scientist intern at Amazon.
-- [04/2021] I was a visiting scholar at the National University of Singapore.
 <details>
   <summary>More News</summary>
   <pre> 
+ 11. [07/2023] I served as a Program Committee Member for AAAI 2024.
+ 10. [07/2023] One paper was accepted by IEEE TNNLS.
   9. [02/2023] I served as a Program Committee Member for IJCAI 2023.
   8. [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
   7. [08/2022] I served as Program Committee Member for AAAI 2023.
