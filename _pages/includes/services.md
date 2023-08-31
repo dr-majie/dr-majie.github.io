@@ -6,7 +6,7 @@
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Neural Networks 
-- Data `&` Knowledge Engineering
+- Data &amp; Knowledge Engineering
 - Frontiers of Computer Science
 
 ### Conference Reviewer
