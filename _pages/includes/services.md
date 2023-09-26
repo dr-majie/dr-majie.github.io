@@ -6,10 +6,13 @@
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - Neural Networks 
-- Data &amp; Knowledge Engineering
-- Frontiers of Computer Science
+- Data &amp; Knowledge Engineering (DKE)
+- Frontiers of Computer Science (FCS)
 
 ### Conference Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
 - International Joint Conference on Artificial Intelligence (IJCAI): 2023
 - International Conference on Learning Representations (ICLR): 2020
+
+### Standard Committee
+- IEEE Computer Society / Knowledge Engineering Standards Committee
