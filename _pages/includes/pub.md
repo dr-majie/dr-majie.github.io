@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## Featured Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
