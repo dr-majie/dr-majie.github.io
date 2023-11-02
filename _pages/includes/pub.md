@@ -1,13 +1,19 @@
 # 📝 Publications 
 ## Featured Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
+**Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao. International Journal of Computer Vision **(IJCV)**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2022</div><img src='images/featuredpub/tip2021.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
 **Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
-
-<!-- [**Code**](https://github.com/dr-majie/WSTQ) <strong><span class='show_paper_citations' data='VsY24XkAAAA:_FxGoFyzp5QC'></span></strong> -->
 </div>
 </div>
 
@@ -17,8 +23,6 @@
 
 [Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/){:style="text-decoration:none;"} \\
 **Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**
-
-<!-- [**Code**](https://github.com/dr-majie/2019-mytqa/) <strong><span class='show_paper_citations' data='VsY24XkAAAA:Tyk-4Ss8FVUC'></span></strong> -->
 </div>
 </div>
 ## Preprint Papers
