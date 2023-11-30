@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
+[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://link.springer.com/article/10.1007/s11263-023-01954-z){:style="text-decoration:none;"} \\
 **Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao. International Journal of Computer Vision **(IJCV)**
 </div>
 </div>
