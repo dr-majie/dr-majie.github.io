@@ -1,4 +1,5 @@
 # 📰 News
+- [02/2024] One paper was accepted by IEEE TPAMI.
 - [01/2024] One paper was accepted by WWW.
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
 - [11/2023] One paper was accepted by IJCV.
@@ -8,7 +9,6 @@
 - [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
 - [08/2022] I served as a Program Committee Member for AAAI 2023.
 - [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
-- [04/2022] I ended my visiting at National University of Singapore.
 <details>
   <summary>More News</summary>
   <pre> 
