@@ -12,6 +12,7 @@
 <details>
   <summary>More News</summary>
   <pre> 
+ 15. [02/2024] One paper was accepted by IEEE TPAMI.
  14. [01/2024] One paper was accepted by WWW.
  13. [12/2023] I served as a Program Committee Member for IJCAI 2024.
  12. [11/2023] One paper was accepted by IJCV.
