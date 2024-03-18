@@ -9,10 +9,10 @@
 - [02/2023] I served as a Program Committee Member for IJCAI 2023.
 - [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
 - [08/2022] I served as a Program Committee Member for AAAI 2023.
-- [07/2022] I received my Ph.D. degree from Xi'an Jiaotong University.
 <details>
   <summary>More News</summary>
   <pre> 
+ 16. [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
  15. [02/2024] One paper was accepted by IEEE TPAMI.
  14. [01/2024] One paper was accepted by WWW.
  13. [12/2023] I served as a Program Committee Member for IJCAI 2024.
