@@ -1,4 +1,5 @@
 # 📰 News
+- [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
 - [02/2024] One paper was accepted by IEEE TPAMI.
 - [01/2024] One paper was accepted by WWW.
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
