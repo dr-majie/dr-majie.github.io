@@ -1,23 +1,25 @@
 # 📰 News
+- [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
 - [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
 - [02/2024] One paper was accepted by IEEE TPAMI.
 - [01/2024] One paper was accepted by WWW.
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
 - [11/2023] One paper was accepted by IJCV.
+- [08/2023] I received funding from the National Natural Science Foundation of China Youth Program.
 - [07/2023] I served as a Program Committee Member for AAAI 2024.
 - [07/2023] One paper was accepted by IEEE TNNLS.
 - [02/2023] I served as a Program Committee Member for IJCAI 2023.
-- [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
-- [08/2022] I served as a Program Committee Member for AAAI 2023.
 <details>
   <summary>More News</summary>
   <pre> 
- 16. [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
- 15. [02/2024] One paper was accepted by IEEE TPAMI.
- 14. [01/2024] One paper was accepted by WWW.
- 13. [12/2023] I served as a Program Committee Member for IJCAI 2024.
- 12. [11/2023] One paper was accepted by IJCV.
- 11. [07/2023] I served as a Program Committee Member for AAAI 2024.
+ 18. [2024.04] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
+ 17. [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
+ 16. [02/2024] One paper was accepted by IEEE TPAMI.
+ 15. [01/2024] One paper was accepted by WWW.
+ 14. [12/2023] I served as a Program Committee Member for IJCAI 2024.
+ 13. [11/2023] One paper was accepted by IJCV.
+ 12. [07/2023] I served as a Program Committee Member for AAAI 2024.
+ 11. [08/2023] I received funding from the National Natural Science Foundation of China Youth Program.
  10. [07/2023] One paper was accepted by IEEE TNNLS.
   9. [02/2023] I served as a Program Committee Member for IJCAI 2023.
   8. [11/2022] The undergraduate students I co-advised to compete in the eighth International College Students' Internet+ Innovation and Entrepreneurship Competition won the gold prize.
