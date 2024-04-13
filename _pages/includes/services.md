@@ -11,7 +11,7 @@
 
 ### Conference Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
-- International Joint Conference on Artificial Intelligence (IJCAI): 2023
+- International Joint Conference on Artificial Intelligence (IJCAI): 2023, 2024
 - International Conference on Learning Representations (ICLR): 2020
 
 ### Standard Committee
