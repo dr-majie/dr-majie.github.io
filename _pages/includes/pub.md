@@ -28,8 +28,7 @@
 ## Preprint Papers
 <div>
 	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu, <a style='text-decoration:none;' href='https://arxiv.org/abs/2404.12020'>Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering</a>, ArXiv, 2024.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Min Hu, Pinghui Wang, Wangchun Sun, Lingyun Song, Hongbin Pei, Jun Liu, Youtian Du, <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>, ArXiv, 2023.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu, <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>, ArXiv, 2023.</p></li>
 	</ul>
 </div>
 ## Published or Accepted Papers
