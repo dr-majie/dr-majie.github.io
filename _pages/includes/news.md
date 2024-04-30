@@ -1,5 +1,6 @@
 # 📰 News
-- [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University
+- [04/2024] I served as a Program Committee Member for CIKM 2024.
+- [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
 - [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
 - [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
 - [02/2024] One paper was accepted by IEEE TPAMI.
@@ -8,12 +9,12 @@
 - [11/2023] One paper was accepted by IJCV.
 - [08/2023] I received funding from the National Natural Science Foundation of China Youth Program.
 - [07/2023] I served as a Program Committee Member for AAAI 2024.
-- [07/2023] One paper was accepted by IEEE TNNLS.
 <details>
   <summary>More News</summary>
   <pre> 
+ 20. [04/2024] I served as a Program Committee Member for CIKM 2024.
  19. [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University
- 18. [2024.04] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
+ 18. [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
  17. [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
  16. [02/2024] One paper was accepted by IEEE TPAMI.
  15. [01/2024] One paper was accepted by WWW.
