@@ -11,6 +11,7 @@
 
 ### Conference Reviewer
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
+- ACM International Conference on Information and Knowledge Management (CIKM): 2024
 - International Joint Conference on Artificial Intelligence (IJCAI): 2023, 2024
 - International Conference on Learning Representations (ICLR): 2020
 - International Conference on Web Information Systems and Applications (WISA): 2024
