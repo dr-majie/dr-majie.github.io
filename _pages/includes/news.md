@@ -1,4 +1,5 @@
 # 📰 News
+- [05/2024] One paper was accepted by ICML 2024.
 - [04/2024] I served as a Program Committee Member for CIKM 2024.
 - [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
 - [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
@@ -8,10 +9,10 @@
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
 - [11/2023] One paper was accepted by IJCV.
 - [08/2023] I received funding from the National Natural Science Foundation of China Youth Program.
-- [07/2023] I served as a Program Committee Member for AAAI 2024.
 <details>
   <summary>More News</summary>
   <pre> 
+ 21. [05/2024] One paper was accepted by ICML 2024.
  20. [04/2024] I served as a Program Committee Member for CIKM 2024.
  19. [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University
  18. [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
