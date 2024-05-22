@@ -9,10 +9,10 @@
 - [01/2024] One paper was accepted by WWW.
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
 - [11/2023] One paper was accepted by IJCV.
-- [08/2023] I received funding from the National Natural Science Foundation of China Youth Program.
 <details>
   <summary>More News</summary>
   <pre> 
+ 22. [05/2024] I served as a reviewer for NeurIPS 2024.
  21. [05/2024] One paper was accepted by ICML 2024.
  20. [04/2024] I served as a Program Committee Member for CIKM 2024.
  19. [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University
