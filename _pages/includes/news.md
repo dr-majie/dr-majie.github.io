@@ -1,4 +1,5 @@
 # 📰 News
+- [05/2024] I served as a reviewer for NeurIPS 2024.
 - [05/2024] One paper was accepted by ICML 2024.
 - [04/2024] I served as a Program Committee Member for CIKM 2024.
 - [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
