@@ -10,6 +10,7 @@
 - Frontiers of Computer Science (FCS)
 
 ### Conference Reviewer
+- Annual Conference on Neural Information Processing Systems (NeurIPS): 2024
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
 - ACM International Conference on Information and Knowledge Management (CIKM): 2024
 - International Joint Conference on Artificial Intelligence (IJCAI): 2023, 2024
