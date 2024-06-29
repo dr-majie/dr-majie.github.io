@@ -8,8 +8,8 @@
 - *2011.09 - 2015.06*, BSc in CST, Lanzhou University of Technology.
 
 # 💬 Invited Talks
-- *2020.02*, Jointly Optimized Neural Coreference Resolution with Mutual Attention, WSDM Conference.
 - *2022.12*, Textbook Question Answering for Online Education, WISA conference.
+- *2020.02*, Jointly Optimized Neural Coreference Resolution with Mutual Attention, WSDM Conference.
 
 # 💻 Internships
 - *2021.07 - 2021.10*, Applied Scientist at Amazon.
