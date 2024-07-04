@@ -9,10 +9,10 @@
 - [02/2024] One paper was accepted by IEEE TPAMI.
 - [01/2024] One paper was accepted by WWW.
 - [12/2023] I served as a Program Committee Member for IJCAI 2024.
-- [11/2023] One paper was accepted by IJCV.
 <details>
   <summary>More News</summary>
   <pre> 
+ 23. [07/2024] One paper was accepted by 软件学报.
  22. [05/2024] I served as a reviewer for NeurIPS 2024.
  21. [05/2024] One paper was accepted by ICML 2024.
  20. [04/2024] I served as a Program Committee Member for CIKM 2024.
