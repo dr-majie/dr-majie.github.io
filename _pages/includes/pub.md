@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"} \\
-**Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. IEEE Transactions on Pattern Analysis and Machine Intelligence **(IEEE TPAMI)**
+**Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao, IEEE Transactions on Pattern Analysis and Machine Intelligence **(IEEE TPAMI)**.
 </div>
 </div>
 
@@ -13,7 +13,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://link.springer.com/article/10.1007/s11263-023-01954-z){:style="text-decoration:none;"} \\
-**Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao. International Journal of Computer Vision **(IJCV)**
+**Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao, International Journal of Computer Vision **(IJCV)**.
 </div>
 </div>
 
@@ -21,7 +21,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
-**Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**
+**Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng, IEEE Transactions on Image Processing **(IEEE TIP)**.
 </div>
 </div>
 
