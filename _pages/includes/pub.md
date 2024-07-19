@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"} \\
-**Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. IEEE Transactions on Pattern Analysis and Machine Intelligence **IEEE TPAMI**
+**Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. IEEE Transactions on Pattern Analysis and Machine Intelligence **(IEEE TPAMI)**
 </div>
 </div>
 
