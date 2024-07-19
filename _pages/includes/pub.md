@@ -1,7 +1,7 @@
 # 📝 Publications 
 ## Featured Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2024</div><img src='images/bias_example.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2024</div><img src='images/featuredpub/bias_example.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"} \\
