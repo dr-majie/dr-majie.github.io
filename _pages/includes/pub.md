@@ -1,6 +1,14 @@
 # 📝 Publications 
 ## Featured Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2024</div><img src='images/bias_example.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"} \\
+**Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. IEEE Transactions on Pattern Analysis and Machine Intelligence **IEEE TPAMI**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -18,13 +26,6 @@
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TNNLS 2021</div><img src='images/featuredpub/tnnls2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Relation-Aware Fine-Grained Reasoning Network for Textbook Question Answering](https://ieeexplore.ieee.org/abstract/document/9466370/){:style="text-decoration:none;"} \\
-**Jie Ma**, Jun Liu, Yaxian Wang, Junjun Li, Tongliang Liu. IEEE Transactions on Neural Networks and Learning Systems **(IEEE TNNLS)**
-</div>
-</div>
 ## Preprint Papers
 <div>
 	<ul>
