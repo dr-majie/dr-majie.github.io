@@ -1,4 +1,5 @@
 # 📰 News
+- [07/2024] One paper was accepted by Neural Networks.
 - [07/2024] One paper was accepted by 软件学报.
 - [05/2024] I served as a reviewer for NeurIPS 2024.
 - [05/2024] One paper was accepted by ICML 2024.
@@ -8,10 +9,10 @@
 - [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
 - [02/2024] One paper was accepted by IEEE TPAMI.
 - [01/2024] One paper was accepted by WWW.
-- [12/2023] I served as a Program Committee Member for IJCAI 2024.
 <details>
   <summary>More News</summary>
   <pre> 
+ 24. [07/2024] One paper was accepted by Neural Networks.
  23. [07/2024] One paper was accepted by 软件学报.
  22. [05/2024] I served as a reviewer for NeurIPS 2024.
  21. [05/2024] One paper was accepted by ICML 2024.

@@ -36,6 +36,7 @@
 ## Published or Accepted Papers
 <div>
 	<ul>
+	    <li><p style="text-align:justify; text-justify:inter-ideograph;"> Lingyun Song, Xuequn Shang, Ruizhi Zhou, Jun Liu, <b>Jie Ma</b>, Zhanhuai Li, Mingxuan Sun, <a style='text-decoration:none;' href=''>A Multi-Group Multi-Stream Attribute Attention Network for Fine-Grained Zero-Shot Learning, </a> Neural Networks <b>(NN)</b>, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>马杰</b>, 孙望淳, 王平辉, 张若非, 李帅鹏, 苏洲, <a style='text-decoration:none;' href=''>基于相关性提示的知识图谱问答</a>, 软件学报, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Hongbin Pei, Yu Li, Huiqi Deng, Jingxin Hai, Pinghui Wang, <b>Jie Ma</b>, Jing Tao, Yuheng Xiong, Xiaohong Guan, <a style='text-decoration:none;' href='https://openreview.net/pdf?id=1sRuv4cnuZ'>Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing</a>, The Forty-first International Conference on Machine Learning <b>(ICML)</b>, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao, <a style='text-decoration:none;' href='https://arxiv.org/abs/2307.11471'>Robust Visual Question Answering: Datasets, Methods, and Future Challenges</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence <b>(IEEE TPAMI)</b>, 2024.</p></li>
