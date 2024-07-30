@@ -12,4 +12,4 @@
 - *02/2020*, Jointly Optimized Neural Coreference Resolution with Mutual Attention, WSDM Conference.
 
 # 💻 Internships
-- *2021.07 - 2021.10*, Applied Scientist at Amazon.
+- *07/2021 - 10/2021*, Applied Scientist at Amazon.
