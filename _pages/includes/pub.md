@@ -1,6 +1,14 @@
 # 📝 Publications 
 ## Featured Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/featuredpub/nips2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://arxiv.org/abs/2404.12020){:style="text-decoration:none;"} \\
+**Jie Ma**, Min Hu, Pinghui Wang, Wangchun Sun, Lingyun Song, Hongbin Pei, Jun Liu, Youtian Du, The Thirty-Eighth Annual Conference on Neural Information Processing Systems **(NeurIPS)**.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2024</div><img src='images/featuredpub/bias_example.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -30,13 +38,13 @@
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui, <a style='text-decoration:none;' href='https://arxiv.org/pdf/2409.03155'>Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models</a>, ArXiv, 2024.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Min Hu, Pinghui Wang, Wangchun Sun, Lingyun Song, Hongbin Pei, Jun Liu, Youtian Du, <a style='text-decoration:none;' href='https://arxiv.org/abs/2404.12020'>Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering</a>, ArXiv, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu, <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>, ArXiv, 2023.</p></li>
 	</ul>
 </div>
 ## Published or Accepted Papers
 <div>
 	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Min Hu, Pinghui Wang, Wangchun Sun, Lingyun Song, Hongbin Pei, Jun Liu, Youtian Du, <a style='text-decoration:none;' href='https://arxiv.org/abs/2404.12020'>Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering</a>, The Thirty-Eighth Annual Conference on Neural Information Processing Systems <b>(NeurIPS)</b>, 2024.</p></li>
 	    <li><p style="text-align:justify; text-justify:inter-ideograph;"> Lingyun Song, Xuequn Shang, Ruizhi Zhou, Jun Liu, <b>Jie Ma</b>, Zhanhuai Li, Mingxuan Sun, <a style='text-decoration:none;' href=''>A Multi-Group Multi-Stream Attribute Attention Network for Fine-Grained Zero-Shot Learning, </a> Neural Networks <b>(NN)</b>, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>马杰</b>, 孙望淳, 王平辉, 张若非, 李帅鹏, 苏洲, <a style='text-decoration:none;' href=''>基于相关性提示的知识图谱问答</a>, 软件学报, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Hongbin Pei, Yu Li, Huiqi Deng, Jingxin Hai, Pinghui Wang, <b>Jie Ma</b>, Jing Tao, Yuheng Xiong, Xiaohong Guan, <a style='text-decoration:none;' href='https://openreview.net/pdf?id=1sRuv4cnuZ'>Multi-Track Message Passing: Tackling Oversmoothing and Oversquashing in Graph Learning via Preventing Heterophily Mixing</a>, The Forty-first International Conference on Machine Learning <b>(ICML)</b>, 2024.</p></li>

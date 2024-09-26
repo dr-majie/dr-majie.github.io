@@ -1,4 +1,5 @@
 # 📰 News
+- [09/2024] One paper was accepted by NeurIPS 2024.
 - [08/2024] I served as a reviewer for ICLR 2025.
 - [07/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.mdpi.com/journal/electronics/special_issues/956U5962O5'>special issue </a> of Electronics (JCR Q2). 
 - [07/2024] One paper was accepted by Neural Networks.
@@ -9,10 +10,10 @@
 - [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
 - [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
 - [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
-- [02/2024] One paper was accepted by IEEE TPAMI.
 <details>
   <summary>More News</summary>
   <pre> 
+ 27. [09/2024] One paper was accepted by NeurIPS 2024.
  26. [08/2024] I served as a reviewer for ICLR 2025.
  25. [07/2024] I served as a guest editor for the special issue of Electronics (JCR Q2).
  24. [07/2024] One paper was accepted by Neural Networks.
