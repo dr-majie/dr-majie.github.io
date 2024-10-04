@@ -1,4 +1,5 @@
 # 📰 News
+- [10/2024] I served as a reviewer for AISTATS 2025.
 - [09/2024] One paper was accepted by NeurIPS 2024.
 - [08/2024] I served as a reviewer for ICLR 2025.
 - [07/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.mdpi.com/journal/electronics/special_issues/956U5962O5'>special issue </a> of Electronics (JCR Q2). 
@@ -13,6 +14,7 @@
 <details>
   <summary>More News</summary>
   <pre> 
+ 28. [10/2024] I served as a reviewer for AISTATS 2025.
  27. [09/2024] One paper was accepted by NeurIPS 2024.
  26. [08/2024] I served as a reviewer for ICLR 2025.
  25. [07/2024] I served as a guest editor for the special issue of Electronics (JCR Q2).
