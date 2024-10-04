@@ -9,8 +9,6 @@
 - [05/2024] One paper was accepted by ICML 2024.
 - [04/2024] I served as a Program Committee Member for CIKM 2024.
 - [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
-- [04/2024] I received funding from the Youth Talent Support Program of the Shaanxi Association for Science and Technology.
-- [03/2024] The Family Brain White Paper 3.0 that I contributed to was published.
 <details>
   <summary>More News</summary>
   <pre> 
