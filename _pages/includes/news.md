@@ -1,4 +1,5 @@
 # 📰 News
+- [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
 - [10/2024] I served as a reviewer for AISTATS 2025.
 - [09/2024] One paper was accepted by NeurIPS 2024.
 - [08/2024] I served as a reviewer for ICLR 2025.
@@ -8,10 +9,10 @@
 - [05/2024] I served as a reviewer for NeurIPS 2024.
 - [05/2024] One paper was accepted by ICML 2024.
 - [04/2024] I served as a Program Committee Member for CIKM 2024.
-- [04/2024] I received the excellent doctoral thesis from Xi'an Jiaotong University.
 <details>
   <summary>More News</summary>
-  <pre> 
+  <pre>
+ 29. [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
  28. [10/2024] I served as a reviewer for AISTATS 2025.
  27. [09/2024] One paper was accepted by NeurIPS 2024.
  26. [08/2024] I served as a reviewer for ICLR 2025.
