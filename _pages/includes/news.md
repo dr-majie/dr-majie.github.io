@@ -1,4 +1,5 @@
 # 📰 News
+- [10/2024] I served as a guest editor for Information Fusion.
 - [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
 - [10/2024] I served as a reviewer for AISTATS 2025.
 - [09/2024] One paper was accepted by NeurIPS 2024.
@@ -12,6 +13,7 @@
 <details>
   <summary>More News</summary>
   <pre>
+ 30. [10/2024] I served as a guest editor for Information Fusion.
  29. [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
  28. [10/2024] I served as a reviewer for AISTATS 2025.
  27. [09/2024] One paper was accepted by NeurIPS 2024.
