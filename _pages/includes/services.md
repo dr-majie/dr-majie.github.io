@@ -4,6 +4,7 @@
 ---
 ### Journal Editor
 - Electronics (JCR Q2) Guest Editor for the Special Issue "Interpretability and Analysis of Models for Natural Language Processing"
+- Information Fusion (JCR Q1) Guest Editor for the Special Issue "GenAI for Information Fusion"
 
 ### Journal Reviewer
 - IEEE Transactions on Image Processing (TIP)
