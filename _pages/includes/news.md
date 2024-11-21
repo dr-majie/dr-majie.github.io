@@ -1,4 +1,5 @@
 # 📰 News
+- [11/2024] I served as a reviewer for CVPR 2025.
 - [10/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion'>special issue </a> of Information Fusion.
 - [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
 - [10/2024] I served as a reviewer for AISTATS 2025.
@@ -8,10 +9,10 @@
 - [07/2024] One paper was accepted by Neural Networks.
 - [07/2024] One paper was accepted by 软件学报.
 - [05/2024] I served as a reviewer for NeurIPS 2024.
-- [05/2024] One paper was accepted by ICML 2024.
 <details>
   <summary>More News</summary>
   <pre>
+ 31. [11/2024] I served as a reviewer for CVPR 2025.
  30. [10/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion'>special issue </a> of Information Fusion.
  29. [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
  28. [10/2024] I served as a reviewer for AISTATS 2025.
