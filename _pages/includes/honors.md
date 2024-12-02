@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *11/2024* Excellent Poster Award of CIPS-LMG2024
 - *04/2024* Youth Talent Support Program of the Shaanxi Association for Science and Technology
 - *04/2024* Excellent Doctoral Thesis from Xi'an Jiaotong University
 - *04/2023* Excellent Innovation and Entrepreneurship Mentor
