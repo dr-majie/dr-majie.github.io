@@ -37,7 +37,7 @@
 ## Preprint Papers
 <div>
 	<ul>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Muye Huang, Han Lai, Xinyu Zhang, Wenjun Wu, <b>Jie Ma</b>, Lingliing Zhang, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2409.01577'>EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding.</a>. arXiv, 2024. (Corresponding Author) </p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Muye Huang, Han Lai, Xinyu Zhang, Wenjun Wu, <b>Jie Ma</b>, Lingliing Zhang, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2409.01577'>EvoChart: A Benchmark and a Self-Training Approach Towards Real-World Chart Understanding.</a> arXiv, 2024. (Corresponding Author) </p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui. <a style='text-decoration:none;' href='https://arxiv.org/pdf/2409.03155'>Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models</a>. arXiv, 2024.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>. arXiv, 2023.</p></li>
 	</ul>
