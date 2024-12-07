@@ -1,4 +1,5 @@
 # 📰 News
+- [12/2024] I served as an Area Chair for ICML 2025.
 - [11/2024] I served as a PC Member for IJCAI 2025.
 - [11/2024] We won the excellent poster award of CIPS-LMG2024.
 - [11/2024] I served as a reviewer for CVPR 2025.
@@ -8,10 +9,10 @@
 - [09/2024] One paper was accepted by NeurIPS 2024.
 - [08/2024] I served as a reviewer for ICLR 2025.
 - [07/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.mdpi.com/journal/electronics/special_issues/956U5962O5'>special issue </a> of Electronics (JCR Q2). 
-- [07/2024] One paper was accepted by Neural Networks.
 <details>
   <summary>More News</summary>
   <pre>
+ 34. [12/2024] I served as an Area Chair for ICML 2025.
  33. [11/2024] I served as a PC Member for IJCAI 2025.
  32. [11/2024] We won the excellent poster award of CIPS-LMG2024.
  31. [11/2024] I served as a reviewer for CVPR 2025.

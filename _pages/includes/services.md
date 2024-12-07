@@ -14,6 +14,9 @@
 - Information Fusion
 - Neural Networks 
 
+### Conference Area Chair
+- International Conference on Machine Learning (ICML): 2025
+
 ### Conference Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS): 2024
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
