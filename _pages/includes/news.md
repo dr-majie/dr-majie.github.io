@@ -1,4 +1,5 @@
 # 📰 News
+- [12/2024] Two papers were accepted by AAAI 2025.
 - [12/2024] I served as an Area Chair for ICML 2025.
 - [11/2024] I served as a PC Member for IJCAI 2025.
 - [11/2024] We won the excellent poster award of CIPS-LMG2024.
@@ -12,6 +13,7 @@
 <details>
   <summary>More News</summary>
   <pre>
+ 35. [12/2024] Two papers were accepted by AAAI 2025.
  34. [12/2024] I served as an Area Chair for ICML 2025.
  33. [11/2024] I served as a PC Member for IJCAI 2025.
  32. [11/2024] We won the excellent poster award of CIPS-LMG2024.
