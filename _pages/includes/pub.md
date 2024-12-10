@@ -5,7 +5,7 @@
 <div class='paper-box-text' markdown="1">
 
 [Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155){:style="text-decoration:none;"} \\
-**Jie Ma**, Jie Ma, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui. The 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)**.
+**Jie Ma**, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui. The 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)**.
 </div>
 </div>
 
