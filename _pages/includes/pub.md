@@ -1,6 +1,14 @@
 # 📝 Publications 
 ## Featured Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/featuredpub/dog.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155){:style="text-decoration:none;"} \\
+**Jie Ma**, Jie Ma, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui. The 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)**.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/featuredpub/nips2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
