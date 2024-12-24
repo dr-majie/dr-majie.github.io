@@ -1,18 +1,18 @@
 # 📰 News
+- [12/2024] I served as a PC Member for the Special Track on AI and Social Good of IJCAI 2025.
 - [12/2024] Two papers were accepted by AAAI 2025.
 - [12/2024] I served as an Area Chair for ICML 2025.
-- [11/2024] I served as a PC Member for IJCAI 2025.
+- [11/2024] I served as a PC Member for Main Track of IJCAI 2025.
 - [11/2024] We won the excellent poster award of CIPS-LMG2024.
 - [11/2024] I served as a reviewer for CVPR 2025.
 - [10/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion'>special issue </a> of Information Fusion.
 - [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
 - [10/2024] I served as a reviewer for AISTATS 2025.
 - [09/2024] One paper was accepted by NeurIPS 2024.
-- [08/2024] I served as a reviewer for ICLR 2025.
-- [07/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.mdpi.com/journal/electronics/special_issues/956U5962O5'>special issue </a> of Electronics (JCR Q2). 
 <details>
   <summary>More News</summary>
   <pre>
+ 36. [12/2024] I served as a PC Member for the Special Track on AI and Social Good of IJCAI 2025.
  35. [12/2024] Two papers were accepted by AAAI 2025.
  34. [12/2024] I served as an Area Chair for ICML 2025.
  33. [11/2024] I served as a PC Member for IJCAI 2025.
