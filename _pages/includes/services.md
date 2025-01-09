@@ -16,6 +16,7 @@
 
 ### Conference Area Chair
 - International Conference on Machine Learning (ICML): 2025
+- China Conference on Knowledge Graph and Semantic Computing (CCKS): 2025
 
 ### Conference Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS): 2024
