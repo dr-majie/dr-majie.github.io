@@ -1,4 +1,5 @@
 # 📰 News
+- [02/2025] I served as a reviewer for ICCV 2025.
 - [01/2025] I served as an Area Chair for CCKS 2025.
 - [12/2024] I served as a PC Member for the Special Track on AI and Social Good of IJCAI 2025.
 - [12/2024] Two papers were accepted by AAAI 2025.
@@ -8,10 +9,10 @@
 - [11/2024] I served as a reviewer for CVPR 2025.
 - [10/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion'>special issue </a> of Information Fusion.
 - [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
-- [10/2024] I served as a reviewer for AISTATS 2025.
 <details>
   <summary>More News</summary>
   <pre>
+ 38. [02/2025] I served as a reviewer for ICCV 2025.
  37. [01/2025] I served as an Area Chair for CCKS 2025.
  36. [12/2024] I served as a PC Member for the Special Track on AI and Social Good of IJCAI 2025.
  35. [12/2024] Two papers were accepted by AAAI 2025.
