@@ -1,4 +1,5 @@
 # 📰 News
+- [03/2025] I was selected for the Youth Talent Support Program of The China Association for Science and Technology
 - [02/2025] I served as a reviewer for NeurIPS 2025.
 - [02/2025] I served as a reviewer for ICCV 2025.
 - [01/2025] I served as an Area Chair for CCKS 2025.
