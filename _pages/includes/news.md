@@ -1,4 +1,5 @@
 # 📰 News
+- [03/2025] I served as a reviewer for ACMMM 2025.
 - [02/2025] I was selected for the Youth Talent Support Program of The China Association for Science and Technology
 - [02/2025] I served as a reviewer for NeurIPS 2025.
 - [02/2025] I served as a reviewer for ICCV 2025.
@@ -8,12 +9,10 @@
 - [12/2024] I served as an Area Chair for ICML 2025.
 - [11/2024] I served as a PC Member for Main Track of IJCAI 2025.
 - [11/2024] We won the excellent poster award of CIPS-LMG2024.
-- [11/2024] I served as a reviewer for CVPR 2025.
-- [10/2024] I served as a guest editor for the <a style='text-decoration:none;' href='https://www.sciencedirect.com/special-issue/316104/genai-for-information-fusion'>special issue </a> of Information Fusion.
-- [10/2024] I served as a chair for the intelligent education forum in SMP 2024.
 <details>
   <summary>More News</summary>
   <pre>
+ 40. [03/2025] I served as a reviewer for ACMMM 2025.
  39. [02/2025] I served as a reviewer for NeurIPS 2025.
  38. [02/2025] I served as a reviewer for ICCV 2025.
  37. [01/2025] I served as an Area Chair for CCKS 2025.
