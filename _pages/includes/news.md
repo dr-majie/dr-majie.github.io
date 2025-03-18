@@ -1,4 +1,5 @@
 # 📰 News
+- [03/2025] I served as a PC Member for CIKM 2025.
 - [03/2025] I served as a reviewer for ACMMM 2025.
 - [02/2025] I was selected for the Youth Talent Support Program of The China Association for Science and Technology
 - [02/2025] I served as a reviewer for NeurIPS 2025.
@@ -8,10 +9,10 @@
 - [12/2024] Two papers were accepted by AAAI 2025.
 - [12/2024] I served as an Area Chair for ICML 2025.
 - [11/2024] I served as a PC Member for Main Track of IJCAI 2025.
-- [11/2024] We won the excellent poster award of CIPS-LMG2024.
 <details>
   <summary>More News</summary>
   <pre>
+ 41. [03/2025] I served as a PC Member for CIKM 2025.
  40. [03/2025] I served as a reviewer for ACMMM 2025.
  39. [02/2025] I served as a reviewer for NeurIPS 2025.
  38. [02/2025] I served as a reviewer for ICCV 2025.
