@@ -1,4 +1,5 @@
 # 📰 News
+- [04/2025] I served as a PC Member for ECAI 2025.
 - [03/2025] I served as a PC Member for CIKM 2025.
 - [03/2025] I served as a reviewer for ACMMM 2025.
 - [02/2025] I was selected for the Youth Talent Support Program of The China Association for Science and Technology
@@ -12,6 +13,7 @@
 <details>
   <summary>More News</summary>
   <pre>
+ 42. [04/2025] I served as a PC Member for ECAI 2025.
  41. [03/2025] I served as a PC Member for CIKM 2025.
  40. [03/2025] I served as a reviewer for ACMMM 2025.
  39. [02/2025] I served as a reviewer for NeurIPS 2025.
