@@ -1,5 +1,6 @@
 # 💼 Work Experience
-- *10/2022 - Present*, Assistant Professor, Faculty of Electronic and Information Engineering.
+- *05/2025 - Present*, Associate Professor, Faculty of Electronic and Information Engineering.
+- *12/2022 - 05/2025*, Assistant Professor, Faculty of Electronic and Information Engineering.
 
 # 🏫 Educations
 - *09/2018 - 07/2022*, PhD in CST, Xi'an Jiaotong University. Supervisor: [Jun Liu](https://gr.xjtu.edu.cn/en/web/liukeen/1;jsessionid=71FC326D35D0E42BB1AA8353FFF3CC59).
