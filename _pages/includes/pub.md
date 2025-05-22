@@ -45,6 +45,7 @@
 ## Preprint Papers
 <div>
 	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Ning Qu, Zhitao Gao, Rui Xing, Jun Liu, Hongbin Pei, Jiang Xie, Linyun Song, Pinghui Wang, Jing Tao, Zhou Su. <a style='text-decoration:none;' href='https://arxiv.org/pdf/2505.15210'>Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs</a>. arXiv, 2025.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Zhitao Gao, Qi Chai, Jun Liu, Pinghui Wang, Jing Tao, Zhou Su. <a style='text-decoration:none;' href='https://arxiv.org/abs/2504.00487'>FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning</a>. arXiv, 2025.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>. arXiv, 2023.</p></li>
 	</ul>
