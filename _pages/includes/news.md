@@ -1,5 +1,6 @@
 # 📰 News
-- [05/2025] I served as a guest editor for "Application Research of Computers"
+- [07/2025] I served as a PC Member for AAAI 2026.
+- [05/2025] I served as a guest editor for "Application Research of Computers".
 - [04/2025] I served as a PC Member for ECAI 2025.
 - [03/2025] I served as a PC Member for CIKM 2025.
 - [03/2025] I served as a reviewer for ACMMM 2025.

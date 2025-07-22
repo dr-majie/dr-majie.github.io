@@ -24,7 +24,7 @@
 
 ### Conference Reviewer
 - Annual Conference on Neural Information Processing Systems (NeurIPS): 2024
-- AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024
+- AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024, 2025, 2026
 - ACM International Conference on Multimedia (ACMMM): 2025
 - ACM International Conference on Information and Knowledge Management (CIKM): 2024, 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
