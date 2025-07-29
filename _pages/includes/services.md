@@ -11,6 +11,7 @@
 - Data &amp; Knowledge Engineering (DKE)
 - Frontiers of Computer Science (FCS)
 - IEEE Transactions on Audio, Speech and Language Processing (TASLP)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Image Processing (TIP)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
