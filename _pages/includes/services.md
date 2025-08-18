@@ -14,10 +14,13 @@
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IEEE Transactions on Cybernetics
 - IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Learning Technologies (TLT)
+- IEEE Transactions on Multimedia (TMM)
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 - Information Fusion
 - Neural Networks 
+- Neural Computing
 
 ### Conference Area Chair
 - International Conference on Machine Learning (ICML): 2025
