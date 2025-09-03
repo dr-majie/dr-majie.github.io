@@ -33,7 +33,7 @@
 - ACM International Conference on Information and Knowledge Management (CIKM): 2024, 2025
 - International Conference on Artificial Intelligence and Statistics (AISTATS): 2025
 - International Joint Conference on Artificial Intelligence (IJCAI): 2023, 2024, 2025
-- International Conference on Learning Representations (ICLR): 2020, 2025
+- International Conference on Learning Representations (ICLR): 2020, 2025, 2026
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR): 2025
 - International Conference on Computer Vision (ICCV): 2025
 - International Conference on Web Information Systems and Applications (WISA): 2024
