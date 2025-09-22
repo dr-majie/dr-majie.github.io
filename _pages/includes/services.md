@@ -3,7 +3,8 @@
  <p style="text-align:justify; text-justify:inter-ideograph;">I receive far more requests to review papers than I can possibly handle. As a selection criterion, I prefer to accept reviews of papers in my areas of expertise, as well as from journals and conferences that do not seek to extract excessive financial profit from the work that authors and reviewers provide to the scientific community for free.</p>
 ---
 ### Journal Editor
-- 计算机应用研究 特邀编辑 "AI时代的数据智能治理"
+- Youth Editor Board Member for the Application Research of Computer
+- Guest Editor for the Special Issue "Data Intelligence Governance in the AI Era"
 - Electronics (JCR Q2) Guest Editor for the Special Issue "Interpretability and Analysis of Models for Natural Language Processing"
 - Information Fusion (JCR Q1) Guest Editor for the Special Issue "GenAI for Information Fusion"
 
