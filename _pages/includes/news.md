@@ -9,10 +9,11 @@
 - [02/2025] I served as a reviewer for NeurIPS 2025.
 - [02/2025] I served as a reviewer for ICCV 2025.
 - [01/2025] I served as an Area Chair for CCKS 2025.
-- [12/2024] I served as a PC Member for the Special Track on AI and Social Good of IJCAI 2025.
 <details>
   <summary>More News</summary>
   <pre>
+ 45. [09/2025] Two papers are accepted by NeurIPS 2025.
+ 44. [07/2025] I served as a PC Member for AAAI 2026.
  43. [05/2025] I served as a guest editor for "Application Research of Computers"
  42. [04/2025] I served as a PC Member for ECAI 2025.
  41. [03/2025] I served as a PC Member for CIKM 2025.
