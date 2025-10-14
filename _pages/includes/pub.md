@@ -1,6 +1,14 @@
 # 📝 Publications 
 ## Featured Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/featuredpub/dp-framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs](https://arxiv.org/abs/2505.15210){:style="text-decoration:none;"} \\
+**Jie Ma**, Ning Qu, Zhitao Gao, Rui Xing, Jun Liu, Hongbin Pei, Jiang Xie, Linyun Song, Pinghui Wang, Jing Tao, Zhou Su. The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS)**.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/featuredpub/dog.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -30,14 +38,6 @@
 
 [Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://link.springer.com/article/10.1007/s11263-023-01954-z){:style="text-decoration:none;"} \\
 **Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao. International Journal of Computer Vision **(IJCV)**.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2022</div><img src='images/featuredpub/tip2021.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Weakly Supervised Learning for Textbook Question Answering](https://ieeexplore.ieee.org/document/9794290){:style="text-decoration:none;"} \\
-**Jie Ma**, Qi Chai, Jingyue Huang, Jun Liu, Yang You, Qinghua Zheng. IEEE Transactions on Image Processing **(IEEE TIP)**.
 </div>
 </div>
 
