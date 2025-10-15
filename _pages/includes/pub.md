@@ -46,7 +46,7 @@
 <div>
 	<ul>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Shihao Qi, Rui Xing, Ziang Yin, Bifan Wei, Jun Liu, Tongliang Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2509.24351'>From Static to Dynamic: Adaptive Monte Carlo Search for Mathematical Process Supervision</a>. arXiv, 2025.</p></li>
-		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Shihao Qi, <b>Jie Ma</b>, Ziang Yin, Lingling Zhang, Jian Zhang, Jun Liu, Feng Tian, Tongliang Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2504.00487'>Plan before Solving: Problem-Aware Strategy Routing for Mathematical Reasoning with LLMs</a>. arXiv, 2025.</p></li>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Shihao Qi, <b>Jie Ma</b>, Ziang Yin, Lingling Zhang, Jian Zhang, Jun Liu, Feng Tian, Tongliang Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2509.24377'>Plan before Solving: Problem-Aware Strategy Routing for Mathematical Reasoning with LLMs</a>. arXiv, 2025.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Zhitao Gao, Qi Chai, Jun Liu, Pinghui Wang, Jing Tao, Zhou Su. <a style='text-decoration:none;' href='https://arxiv.org/pdf/2509.24377'>FortisAVQA and MAVEN: a Benchmark Dataset and Debiasing Framework for Robust Multimodal Reasoning</a>. arXiv, 2025.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>Jie Ma</b>, Pinghui Wang, Zewei Wang, Decheng Kong, Min Hu, Ting Han, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/abs/2305.03971'>Adaptive Loose Optimization for Robust Question Answering</a>. arXiv, 2023.</p></li>
 	</ul>
