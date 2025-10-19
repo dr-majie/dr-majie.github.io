@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *07/2025* Second Prize Supervisor of the China Graduate Electronics Design Contest
 - *05/2025* Second Prize for Excellent Papers at the CCF-CGML 2025
 - *02/2025* Youth Talent Support Program of The China Association for Science and Technology 
 - *11/2024* Excellent Poster Award of CIPS-LMG 2024
