@@ -23,6 +23,9 @@
 - Information Fusion
 - Neural Networks 
 - Neural Computing
+- 电子学报
+- 计算机研究与发展
+- 计算机应用研究
 
 ### Conference Area Chair
 - International Conference on Machine Learning (ICML): 2025
