@@ -1,4 +1,5 @@
 # 📰 News
+- [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
 - [09/2025] Two papers are accepted by NeurIPS 2025.
 - [07/2025] I served as a PC Member for AAAI 2026.
 - [05/2025] I served as a guest editor for "Application Research of Computers".
@@ -12,6 +13,7 @@
 <details>
   <summary>More News</summary>
   <pre>
+ 46. [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
  45. [09/2025] Two papers are accepted by NeurIPS 2025.
  44. [07/2025] I served as a PC Member for AAAI 2026.
  43. [05/2025] I served as a guest editor for "Application Research of Computers"
