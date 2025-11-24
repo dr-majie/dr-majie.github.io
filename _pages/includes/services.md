@@ -30,7 +30,7 @@
 ### Conference Area/Workshop Chair
 - China National Conference on Social Media Processing (SMP): 2024, 2025
 - China Conference on Knowledge Graph and Semantic Computing (CCKS): 2025
-- International Conference on Machine Learning (ICML): 2025
+- International Conference on Machine Learning (ICML): 2025, 2026
 - International Conference on Deep Learning and Neural Networks (DLNN): 2025
 
 ### Conference Reviewer
