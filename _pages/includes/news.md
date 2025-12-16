@@ -1,4 +1,5 @@
 # 📰 News
+- [12/2025] We won the DLNN best paper award.
 - [11/2025] I was served as an Area Chair for ICML 2026.
 - [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
 - [09/2025] Two papers are accepted by NeurIPS 2025.
@@ -8,10 +9,10 @@
 - [03/2025] I served as a PC Member for CIKM 2025.
 - [03/2025] I served as a reviewer for ACMMM 2025.
 - [02/2025] I was selected for the Youth Talent Support Program of The China Association for Science and Technology
-- [02/2025] I served as a reviewer for NeurIPS 2025.
 <details>
   <summary>More News</summary>
   <pre>
+ 48. [12/2025] We won the DLNN best paper award.
  47. [11/2025] I was served as an Area Chair for ICML 2026.
  46. [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
  45. [09/2025] Two papers are accepted by NeurIPS 2025.
