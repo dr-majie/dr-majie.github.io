@@ -23,6 +23,7 @@
 - Information Fusion
 - Neural Networks 
 - Neural Computing
+- Pattern Recognition (PR)
 - 电子学报
 - 计算机研究与发展
 - 计算机应用研究
