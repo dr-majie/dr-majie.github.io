@@ -1,5 +1,5 @@
 # 🎖 Honors and Awards
-- *12/2025* Best Paper Award of the DLNN 2025.
+- *12/2025* Best Paper Award of the MLAIA 2025.
 - *07/2025* Second Prize Supervisor of the China Graduate Electronics Design Contest
 - *05/2025* Second Prize for Excellent Papers at the CCF-CGML 2025
 - *02/2025* Youth Talent Support Program of The China Association for Science and Technology 

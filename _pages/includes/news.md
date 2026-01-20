@@ -1,6 +1,6 @@
 # 📰 News
 - [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
-- [12/2025] We won the DLNN best paper award.
+- [12/2025] We won the MLAIA best paper award.
 - [11/2025] I was served as an Area Chair for ICML 2026.
 - [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
 - [09/2025] Two papers are accepted by NeurIPS 2025.
@@ -13,7 +13,7 @@
   <summary>More News</summary>
   <pre>
  49. [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
- 48. [12/2025] We won the DLNN best paper award.
+ 48. [12/2025] We won the MLAIA best paper award.
  47. [11/2025] I was served as an Area Chair for ICML 2026.
  46. [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
  45. [09/2025] Two papers are accepted by NeurIPS 2025.
