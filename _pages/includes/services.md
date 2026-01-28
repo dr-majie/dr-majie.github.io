@@ -46,6 +46,7 @@
 - International Conference on Computer Vision (ICCV): 2025
 - International Conference on Web Information Systems and Applications (WISA): 2024
 - European Conference on Artificial Intelligence (ECAI): 2025
+- European Conference on Computer Vision (ECCV): 2026
 
 ### Standard Committee
 - IEEE Computer Society / Knowledge Engineering Standards Committee
