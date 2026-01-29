@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *12/2025* Instructor of the second prize winner in the second CCF Algorithm Capability Competition
 - *12/2025* Best Paper Award of the MLAIA 2025.
 - *07/2025* Second Prize Supervisor of the China Graduate Electronics Design Contest
 - *05/2025* Second Prize for Excellent Papers at the CCF-CGML 2025
