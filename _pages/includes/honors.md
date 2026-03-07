@@ -1,4 +1,5 @@
 # 🎖 Honors and Awards
+- *03/2025* Outstanding Undergraduate Advisor of the Faculty of Electronic and Information Engineering
 - *12/2025* Instructor of the second prize winner in the second CCF Algorithm Capability Competition
 - *12/2025* Best Paper Award of the MLAIA 2025.
 - *07/2025* Second Prize Supervisor of the China Graduate Electronics Design Contest
