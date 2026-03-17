@@ -1,5 +1,5 @@
 # 📰 News
-- [03/2026] I served as an Associated Editor for Pattern Recognition.
+- [03/2026] I served as an Associate Editor for Pattern Recognition.
 - [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
 - [12/2025] We won the MLAIA best paper award.
 - [11/2025] I served as an Area Chair for ICML 2026.
