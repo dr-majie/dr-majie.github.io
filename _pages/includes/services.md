@@ -30,13 +30,14 @@
 - 计算机应用研究
 
 ### Conference Area/Workshop Chair
+- Annual Conference on Neural Information Processing Systems (NeurIPS): 2026
 - China National Conference on Social Media Processing (SMP): 2024, 2025
 - China Conference on Knowledge Graph and Semantic Computing (CCKS): 2025
 - International Conference on Machine Learning (ICML): 2025, 2026
 - International Conference on Deep Learning and Neural Networks (DLNN): 2025
 
 ### Conference Reviewer
-- Annual Conference on Neural Information Processing Systems (NeurIPS): 2024
+- Annual Conference on Neural Information Processing Systems (NeurIPS): 2024, 2025
 - AAAI Conference on Artificial Intelligence (AAAI): 2023, 2024, 2025, 2026
 - ACM International Conference on Multimedia (ACMMM): 2025
 - ACM International Conference on Information and Knowledge Management (CIKM): 2024, 2025
