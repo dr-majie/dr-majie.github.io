@@ -1,4 +1,5 @@
 # 📰 News
+- [03/2026] I served as an Area Chair for NeurIPS 2026.
 - [03/2026] I served as an Associate Editor for Pattern Recognition.
 - [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
 - [12/2025] We won the MLAIA best paper award.
@@ -8,10 +9,10 @@
 - [07/2025] I served as a PC Member for AAAI 2026.
 - [05/2025] I served as a guest editor for "Application Research of Computers".
 - [04/2025] I served as a PC Member for ECAI 2025.
-- [03/2025] I served as a PC Member for CIKM 2025.
 <details>
   <summary>More News</summary>
   <pre>
+ 51. [04/2026] I served as an Area Chair for NeurIPS 2026.
  50. [03/2026] I served as an Associate Editor for Pattern Recognition.
  49. [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
  48. [12/2025] We won the MLAIA best paper award.
