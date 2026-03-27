@@ -1,5 +1,5 @@
 # 📰 News
-- [03/2026] I served as an Area Chair for NeurIPS 2026.
+- [03/2026] I served as an Area Chair for NeurIPS 2026 (declined).
 - [03/2026] I served as an Associate Editor for Pattern Recognition.
 - [01/2026] I was supported by CAAI-Lenovo Blue Sky Research Fund Project.
 - [12/2025] We won the MLAIA best paper award.
