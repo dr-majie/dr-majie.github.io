@@ -10,6 +10,7 @@
 - Information Fusion (JCR Q1) Guest Editor for the Special Issue "GenAI for Information Fusion"
 
 ### Journal Reviewer
+- ACM Transactions on Information Systems (TOIS)
 - Data &amp; Knowledge Engineering (DKE)
 - Frontiers of Computer Science (FCS)
 - IEEE Transactions on Audio, Speech and Language Processing (TASLP)
