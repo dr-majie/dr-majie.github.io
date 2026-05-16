@@ -4,10 +4,11 @@
 ---
 ### Journal Editor
 - Associate Editor for Pattern Recognition
-- Youth Editor Board Member for the Application Research of Computer
-- Guest Editor for the Special Issue "Data Intelligence Governance in the AI Era"
+- Application Research of Computer Guest Editor for the Special Issue "Data Intelligence Governance in the AI Era"
 - Electronics (JCR Q2) Guest Editor for the Special Issue "Interpretability and Analysis of Models for Natural Language Processing"
 - Information Fusion (JCR Q1) Guest Editor for the Special Issue "GenAI for Information Fusion"
+- Youth Editor Board Member for the Application Research of Computer (计算机应用研究)
+- Youth Editor Board Member for the Big Data (大数据)
 
 ### Journal Reviewer
 - ACM Transactions on Information Systems (TOIS)
