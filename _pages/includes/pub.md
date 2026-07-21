@@ -58,6 +58,7 @@
 ## Published or Accepted Papers
 <div>
 	<ul>
+		<li><p style="text-align:justify; text-justify:inter-ideograph;"> <b>马杰</b>, 张瀚驰, 渠宁, 薛皓荃, 王鑫平, 刘均. <a style='text-decoration:none;' href=''>基于多智能体辩论的图文交织生成方法</a>. 计算机研究与发展, 2026.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Zhitao Gao, <b>Jie Ma*</b>, Xuhong Li, Pengyu Li, Ning Qu, Yaqiang Wu, Hui Liu, Jun Liu. <a style='text-decoration:none;' href='https://arxiv.org/pdf/2602.03084'>AERO: Autonomous Evolutionary Reasoning Optimization via Endogenous Dual-Loop Feedback</a>. COLM, 2026.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Shuaipeng Li, Baoyu An, Xueyang Huo, <b>Jie Ma</b>, Yuansi Zhang, Linxi Cai, Pinghui Wang, Chaobo Yan.  <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11357961'> Securely Answering Multi-hop Questions on the Joint of Private and Public Knowledge Graphs.</a> IEEE Transactions on Automation Science and Engineering <b>(IEEE TASE)</b>, 2026.</p></li>
 		<li><p style="text-align:justify; text-justify:inter-ideograph;"> Chao Zhang, Jianwen Sun, <b>Jie Ma</b>, Yi Yang, and Yawei Luo. <a style='text-decoration:none;' href='https://ieeexplore.ieee.org/document/11271516'> TeenEmpath: Towards Adolescent Psychological Counseling with Multiple Personas and Strategies.</a> IEEE Transactions on Affective Computing <b>(IEEE TAC)</b>, 2025.</p></li>

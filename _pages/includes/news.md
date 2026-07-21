@@ -1,4 +1,5 @@
 # 📰 News
+- [07/2026] One paper was accepted by "计算机研究与发展".
 - [07/2026] I served as a Senior Program Committee for AAAI 2027.
 - [07/2026] One paper was accepted by COLM 2026.
 - [03/2026] I served as an Area Chair for NeurIPS 2026.
@@ -12,6 +13,7 @@
 <details>
   <summary>More News</summary>
  <pre>
+ 54. [07/2026] One paper was accepted by "计算机研究与发展".
  53. [07/2026] I served as a Senior Program Committee for AAAI 2027.
  52. [07/2026] One paper was accepted by COLM 2026.
  51. [04/2026] I served as an Area Chair for NeurIPS 2026.
