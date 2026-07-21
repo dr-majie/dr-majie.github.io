@@ -31,7 +31,8 @@
 - 计算机研究与发展
 - 计算机应用研究
 
-### Conference Area/Workshop Chair
+### Area Chair/Workshop Chair/Senior Program Committee
+- AAAI Conference on Artificial Intelligence (AAAI)： 2026
 - Annual Conference on Neural Information Processing Systems (NeurIPS): 2026
 - China National Conference on Social Media Processing (SMP): 2024, 2025
 - China Conference on Knowledge Graph and Semantic Computing (CCKS): 2025
