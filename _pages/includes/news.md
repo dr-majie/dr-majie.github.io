@@ -1,4 +1,5 @@
 # 📰 News
+- [08/2026] One paper was accepted by EMNLP 2026.
 - [08/2026] I served as an Area Chair for ICLR 2027.
 - [07/2026] One paper was accepted by "计算机研究与发展".
 - [07/2026] I served as a Senior Program Committee for AAAI 2027.
@@ -13,6 +14,7 @@
 <details>
   <summary>More News</summary>
  <pre>
+ 56. [08/2026] One paper was accepted by EMNLP 2026.
  55. [08/2026] I served as an Area Chair for ICLR 2027.
  54. [07/2026] One paper was accepted by "计算机研究与发展".
  53. [07/2026] I served as a Senior Program Committee for AAAI 2027.
