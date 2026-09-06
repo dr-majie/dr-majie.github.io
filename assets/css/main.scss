@@ -92,7 +92,7 @@ li {
     border: 1px solid var(--site-border);
     border-radius: var(--site-radius);
     box-shadow: var(--site-shadow);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(8px);
 }
 
 .page__content {
@@ -125,6 +125,7 @@ li {
 
 .sidebar {
     background: transparent;
+    min-width: 0;
 }
 
 .profile_box {
@@ -465,7 +466,7 @@ h1:before, .anchor:before {
     color: #ffffff;
     text-decoration: none;
     box-shadow: 0 14px 32px rgba(0, 0, 0, 0.18);
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(8px);
 }
 
 .mountain-cta:hover {
@@ -545,6 +546,244 @@ h1:before, .anchor:before {
         padding: 0.9rem;
     }
 
+    .mountain-stage {
+        min-height: 360px;
+    }
+
+    .mountain-content {
+        padding: 2.1rem 1rem 1.7rem;
+    }
+
+    .mountain-footnote {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .mountain-updated::before {
+        content: none;
+    }
+}
+
+
+
+
+/* Sidebar breathing room */
+@include breakpoint($large) {
+    .sidebar {
+        @include span(3 of 12);
+    }
+
+    .page {
+        @include span(9 of 12 last);
+        @include prefix(0.25 of 12);
+        @include suffix(0 of 12);
+    }
+}
+
+.profile_box {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0.8rem;
+    padding: 1rem 1rem 1.15rem;
+    overflow: visible;
+}
+
+.author__avatar {
+    width: 100%;
+    text-align: center;
+}
+
+.author__avatar img {
+    max-width: 160px;
+    min-width: 0;
+}
+
+.author__content {
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    line-height: 1.55;
+}
+
+.author__name {
+    text-align: center;
+}
+
+.author__bio {
+    text-align: center;
+    line-height: 1.6;
+}
+
+.author__urls-wrapper {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+}
+
+.author__urls {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+.author__urls:before,
+.author__urls:after {
+    display: none;
+}
+
+.author__urls li {
+    white-space: normal;
+}
+
+.author__urls li,
+.author__urls li a,
+.author__urls li div {
+    white-space: normal;
+}
+
+.author__urls a {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    line-height: 1.5;
+}
+
+.publication-toolbar {
+    margin: 1rem 0 1.25rem;
+    padding: 0.9rem 1rem;
+    border: 1px solid rgba(15, 98, 254, 0.08);
+    border-radius: 18px;
+    background: rgba(15, 98, 254, 0.04);
+}
+
+.tag-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+}
+
+.tag-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.55rem 0.95rem;
+    border-radius: 999px;
+    border: 1px solid rgba(15, 23, 42, 0.12);
+    background: rgba(255, 255, 255, 0.86);
+    color: var(--site-text);
+    font-size: 0.92rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tag-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 18px rgba(15, 23, 42, 0.08);
+}
+
+.tag-btn.active {
+    background: linear-gradient(135deg, var(--site-accent-strong), #2f80ed);
+    color: #ffffff;
+    border-color: transparent;
+    box-shadow: 0 10px 20px rgba(15, 98, 254, 0.18);
+}
+
+.tag-count {
+    min-width: 1.3rem;
+    padding: 0.05rem 0.38rem;
+    border-radius: 999px;
+    background: rgba(251, 165, 36, 0.16);
+    color: #7c2d12;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.tag-btn.active .tag-count {
+    background: rgba(255, 255, 255, 0.18);
+    color: #ffffff;
+}
+
+.publication-heading {
+    margin-top: 1.15rem;
+    margin-bottom: 0.65rem;
+    color: #0f172a;
+    letter-spacing: -0.02em;
+}
+
+.publication-group {
+    margin-bottom: 1rem;
+}
+
+.publication-entry {
+    transition: opacity 0.2s ease, transform 0.2s ease;
+}
+
+.publication-entry.is-filtered-out {
+    display: none !important;
+}
+
+.publication-empty {
+    margin: 0.8rem 0 1rem;
+    padding: 0.85rem 1rem;
+    border-radius: 14px;
+    background: rgba(15, 98, 254, 0.05);
+    color: var(--site-muted);
+    border: 1px dashed rgba(15, 98, 254, 0.12);
+    text-align: center;
+}
+
+.mountain-footer {
+    margin-top: 2.25rem;
+    clear: both;
+    background: rgba(6, 17, 29, 0.40);
+    color: rgba(255, 255, 255, 0.9);
+    overflow: hidden;
+    position: relative;
+}
+
+.mountain-footer::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(180deg, rgba(4, 9, 18, 0.04), rgba(4, 9, 18, 0.20) 56%, rgba(4, 9, 18, 0.48)),
+        linear-gradient(135deg, rgba(59, 130, 246, 0.12), transparent 45%),
+        linear-gradient(315deg, rgba(16, 185, 129, 0.08), transparent 40%);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.footer-wrap {
+    position: relative;
+    z-index: 2;
+    margin-top: -1px;
+    padding: 0.9rem 1rem 1.2rem;
+    background: rgba(5, 10, 18, 0.28);
+    border-top: 1px solid rgba(255, 255, 255, 0.04);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+
+.footer-row {
+    color: rgba(255, 255, 255, 0.72);
+}
+
+.footer-row a {
+    color: #ffffff;
+}
+
+.footer-row a:hover {
+    color: #cbd5e1;
+}
+
+@media (max-width: 925px) {
     .mountain-stage {
         min-height: 360px;
     }
