@@ -44,6 +44,11 @@
         var publicationKey = element.getAttribute('data');
         var publicationTitle = normalizeText(element.getAttribute('data-title'));
         var matchedPublication = null;
+        var publicationParent = element.parentElement;
+
+        if (publicationParent && publicationParent.lastElementChild !== element) {
+          publicationParent.appendChild(element);
+        }
 
         if (publicationKey && publications[publicationKey]) {
           matchedPublication = publications[publicationKey];
@@ -55,7 +60,7 @@
 
         if (matchedPublication) {
           var citationCount = matchedPublication['num_citations'] || matchedPublication['citations'] || 0;
-          element.textContent = ' · Cited by ' + citationCount;
+          element.textContent = ' (Cited by ' + citationCount + ')';
           element.style.display = 'inline';
         } else {
           element.style.display = 'none';
@@ -70,3 +75,4 @@
     });
   });
 </script>
+

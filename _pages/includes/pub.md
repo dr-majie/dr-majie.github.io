@@ -1,15 +1,12 @@
 # 📝 Publications 
 
-<p class="publication-stats">Google Scholar citations: <strong id="total_cit">—</strong></p>
-
 <div class="publication-toolbar" aria-label="Publication filters">
   <div class="tag-filter" id="publicationTagFilter">
     <button class="tag-btn active" type="button" data-tag="all">All <span class="tag-count">0</span></button>
+    <button class="tag-btn" type="button" data-tag="agent">Agent <span class="tag-count">0</span></button>
+    <button class="tag-btn" type="button" data-tag="knowledge-graph">Knowledge Graph <span class="tag-count">0</span></button>
+    <button class="tag-btn" type="button" data-tag="multimodal-learning">Multimodal Learning <span class="tag-count">0</span></button>
     <button class="tag-btn" type="button" data-tag="generation">Generation <span class="tag-count">0</span></button>
-    <button class="tag-btn" type="button" data-tag="multimodal">Multimodal <span class="tag-count">0</span></button>
-    <button class="tag-btn" type="button" data-tag="medical">Medical <span class="tag-count">0</span></button>
-    <button class="tag-btn" type="button" data-tag="world-model">World Model <span class="tag-count">0</span></button>
-    <button class="tag-btn" type="button" data-tag="benchmark">Benchmark <span class="tag-count">0</span></button>
   </div>
 </div>
 <p class="publication-empty" hidden>No publications match this filter yet.</p>
@@ -129,11 +126,10 @@
   }
 
   var rules = [
-    { tag: 'generation', regex: /(large language model|llm|generative|generation|generate|deliberation|debate|reasoning|knowledge graph|coreference|evolve)/i },
-    { tag: 'multimodal', regex: /(multimodal|visual question answering|audio-visual|visual|image|video|vqa|diagram|textbook question answering)/i },
-    { tag: 'medical', regex: /(medical|biomedical|health|clinical|medicine|medical imaging)/i },
-    { tag: 'world-model', regex: /(world model|navigation|goal navigation|embodied|robot|planning)/i },
-    { tag: 'benchmark', regex: /(benchmark|dataset|survey|challenge|evaluation)/i }
+    { tag: 'agent', regex: /(multi-agent|agentic|agent\b|orchestration|collaboration|self-evolution|self evolving|coordination|navigation|strategy|planning|autonomous|persona|deliberation|debate|routing|counseling|多智能体|协同|编排|规划|导航|自主|反思|策略|咨询)/i },
+    { tag: 'knowledge-graph', regex: /(knowledge graph|knowledge graphs|\bgraph\b|graphs|graph reasoning|graph question answering|reasoning on graphs|graph learning|graph network|graph networks|graph attention|graph contrastive|hypergraph|hyperedge|metapath|message passing|bus travel time|knowledge topic|知识图谱|知识主题)/i },
+    { tag: 'multimodal-learning', regex: /(multimodal|visual question answering|audio-visual|visual|image|video|vqa|chart|diagram|multimodal feedback|chart understanding|hate speech|zero-shot learning|textbook question answering|图文|多模态|视觉|图像|视频|图表|图解|音频|问答)/i },
+    { tag: 'generation', regex: /(large language model|llm|generative|generation|generate|reasoning|process supervision|question answering|self-training|pseudo-label|optimization|coreference|surveying|benchmark|dataset|debiasing|regularizer|augmentation|生成|推理|问答|辩论|优化|自训练|蒸馏|伪标签|过程监督)/i }
   ];
 
   function normalizeText(value) {
@@ -227,4 +223,6 @@
   });
 })();
 </script>
+
+
 
