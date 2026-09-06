@@ -1,0 +1,16 @@
+#!/bin/sh
+
+branch_name=$(git branch --show-current)
+
+if [ -z "$branch_name" ]; then
+  exit 0
+fi
+
+remote_name=$(git config --get "branch.${branch_name}.remote")
+if [ -z "$remote_name" ]; then
+  remote_name=origin
+fi
+
+if ! git push "$remote_name" "$branch_name"; then
+  echo "[post-commit] auto-push failed for ${branch_name} on ${remote_name}." >&2
+fi
