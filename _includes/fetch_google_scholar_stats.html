@@ -1,19 +1,72 @@
 <script>
-    $(document).ready(function () {
-        {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
-        {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
-        {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
-        });
-    })
+  $(document).ready(function () {
+    {% if site.google_scholar_stats_use_cdn %}
+    var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+    {% else %}
+    var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+    {% endif %}
+
+    function normalizeText(value) {
+      return (value || '')
+        .toString()
+        .toLowerCase()
+        .replace(/[^\w\u4e00-\u9fa5]+/g, '')
+        .trim();
+    }
+
+    function hideCitationBadges() {
+      var citationElements = document.getElementsByClassName('show_paper_citations');
+      Array.prototype.forEach.call(citationElements, function (element) {
+        element.style.display = 'none';
+      });
+    }
+
+    $.getJSON(gsDataBaseUrl + 'google-scholar-stats/gs_data.json', function (data) {
+      var totalCitation = data['citedby'] || data['citedBy'] || data['citations'] || '—';
+      var totalCitationElement = document.getElementById('total_cit');
+      if (totalCitationElement) {
+        totalCitationElement.textContent = totalCitation;
+      }
+
+      var publications = data['publications'] || {};
+      var publicationEntries = Object.keys(publications).map(function (key) {
+        var publication = publications[key] || {};
+        var bibliography = publication.bib || {};
+        return {
+          key: key,
+          title: normalizeText(bibliography.title || publication.title || ''),
+          citations: publication['num_citations'] || publication['citations'] || 0
+        };
+      });
+
+      var citationElements = document.getElementsByClassName('show_paper_citations');
+      Array.prototype.forEach.call(citationElements, function (element) {
+        var publicationKey = element.getAttribute('data');
+        var publicationTitle = normalizeText(element.getAttribute('data-title'));
+        var matchedPublication = null;
+
+        if (publicationKey && publications[publicationKey]) {
+          matchedPublication = publications[publicationKey];
+        } else if (publicationTitle) {
+          matchedPublication = publicationEntries.find(function (entry) {
+            return entry.title === publicationTitle;
+          });
+        }
+
+        if (matchedPublication) {
+          var citationCount = matchedPublication['num_citations'] || matchedPublication['citations'] || 0;
+          element.textContent = ' · Cited by ' + citationCount;
+          element.style.display = 'inline';
+        } else {
+          element.style.display = 'none';
+        }
+      });
+    }).fail(function () {
+      var totalCitationElement = document.getElementById('total_cit');
+      if (totalCitationElement && totalCitationElement.textContent === '') {
+        totalCitationElement.textContent = '—';
+      }
+      hideCitationBadges();
+    });
+  });
 </script>

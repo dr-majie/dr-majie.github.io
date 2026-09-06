@@ -1,10 +1,13 @@
 # 📝 Publications 
+
+<p class="publication-stats">Google Scholar citations: <strong id="total_cit">—</strong></p>
+
 ## Featured Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/featuredpub/dp-framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs](https://arxiv.org/abs/2505.15210){:style="text-decoration:none;"} \\
+[Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs](https://arxiv.org/abs/2505.15210){:style="text-decoration:none;"}<span class="show_paper_citations" data-title="Deliberation on Priors: Trustworthy Reasoning of Large Language Models on Knowledge Graphs"></span> \\
 **Jie Ma**, Ning Qu, Zhitao Gao, Rui Xing, Jun Liu, Hongbin Pei, Jiang Xie, Linyun Song, Pinghui Wang, Jing Tao, Zhou Su. The Thirty-Ninth Annual Conference on Neural Information Processing Systems **(NeurIPS)**.
 </div>
 </div>
@@ -12,7 +15,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/featuredpub/dog.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155){:style="text-decoration:none;"} \\
+[Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models](https://arxiv.org/pdf/2409.03155){:style="text-decoration:none;"}<span class="show_paper_citations" data-title="Debate on Graph: a Flexible and Reliable Reasoning Framework for Large Language Models"></span> \\
 **Jie Ma**, Zhitao Gao, Qi Chai, Wangchun Sun, Pinghui Wang, Hongbin Pei, Jing Tao, Lingyun Song, Jun Liu, Chen Zhang, Lizhen Cui. The 39th Annual AAAI Conference on Artificial Intelligence **(AAAI)**.
 </div>
 </div>
@@ -20,7 +23,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/featuredpub/nips2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://arxiv.org/abs/2404.12020){:style="text-decoration:none;"} \\
+[Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering](https://arxiv.org/abs/2404.12020){:style="text-decoration:none;"}<span class="show_paper_citations" data-title="Look, Listen, and Answer: Overcoming Biases for Audio-Visual Question Answering"></span> \\
 **Jie Ma**, Min Hu, Pinghui Wang, Wangchun Sun, Lingyun Song, Hongbin Pei, Jun Liu, Youtian Du. The Thirty-Eighth Annual Conference on Neural Information Processing Systems **(NeurIPS)**.
 </div>
 </div>
@@ -28,7 +31,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI 2024</div><img src='images/featuredpub/bias_example.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"} \\
+[Robust Visual Question Answering: Datasets, Methods, and Future Challenges](https://ieeexplore.ieee.org/abstract/document/10438044){:style="text-decoration:none;"}<span class="show_paper_citations" data-title="Robust Visual Question Answering: Datasets, Methods, and Future Challenges"></span> \\
 **Jie Ma**, Pinghui Wang, Dechen Kong, Zewei Wang, Jun Liu, Hongbin Pei, Junzhou Zhao. IEEE Transactions on Pattern Analysis and Machine Intelligence **(IEEE TPAMI)**.
 </div>
 </div>
@@ -36,7 +39,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2023</div><img src='images/featuredpub/dimp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://link.springer.com/article/10.1007/s11263-023-01954-z){:style="text-decoration:none;"} \\
+[Diagram Perception Networks for Textbook Question Answering via Joint Optimization](https://link.springer.com/article/10.1007/s11263-023-01954-z){:style="text-decoration:none;"}<span class="show_paper_citations" data-title="Diagram Perception Networks for Textbook Question Answering via Joint Optimization"></span> \\
 **Jie Ma**, Jun Liu, Qi Chai, Pinghui Wang, Jing Tao. International Journal of Computer Vision **(IJCV)**.
 </div>
 </div>
