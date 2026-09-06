@@ -360,21 +360,29 @@ h1:before, .anchor:before {
     position: relative;
 }
 
-/* ===== 底部山景背景与版权信息 ===== */
+/* ===== 底部山景背景 ===== */
 .mountain-footer {
     margin-top: 2.25rem;
     clear: both;
     background: transparent;
-    color: rgba(255, 255, 255, 0.9);
     overflow: hidden;
     position: relative;
 }
 
-/* 渐变遮罩层：让图片顶部与页面内容柔和过渡 */
-.mountain-footer::before {
-    content: '';
+.mountain-stage {
+    position: relative;
+    width: 100%;
+    min-height: 520px;
+    overflow: hidden;
+}
+
+/* 遮罩层：在图片之上，内容之下 */
+.mountain-stage::before {
+    content: "";
     position: absolute;
     inset: 0;
+    z-index: 2;
+    pointer-events: none;
     background: linear-gradient(
         to bottom,
         rgba(255, 255, 255, 1) 0%,
@@ -385,19 +393,8 @@ h1:before, .anchor:before {
         rgba(255, 255, 255, 0.05) 82%,
         rgba(255, 255, 255, 0) 100%
     );
-    pointer-events: none;
-    z-index: 1;
 }
 
-.mountain-stage {
-    position: relative;
-    min-height: clamp(360px, 42vw, 520px);
-    display: flex;
-    align-items: flex-end;
-    justify-content: center;
-}
-
-/* 背景图片与备用背景：绝对定位填满容器 */
 .mountain-stage picture,
 .mountain-img,
 .mountain-fallback {
@@ -411,89 +408,89 @@ h1:before, .anchor:before {
     object-fit: cover;
     object-position: center bottom;
     display: block;
-    z-index: 0;
+    z-index: 1;
 }
 
-/* 备用背景：默认显示，图片加载成功后会由 onerror 脚本隐藏 */
 .mountain-fallback {
-    display: none; /* 默认显示，确保图片加载失败时有背景 */
-    background:
-        linear-gradient(180deg, rgba(7, 14, 24, 0.00) 0%, rgba(7, 14, 24, 0.26) 48%, rgba(7, 14, 24, 0.76) 100%),
-        radial-gradient(circle at 22% 58%, rgba(255, 255, 255, 0.08), transparent 18%),
-        radial-gradient(circle at 74% 50%, rgba(255, 255, 255, 0.06), transparent 16%),
-        linear-gradient(180deg, #0b1320 0%, #071019 52%, #0e2438 100%);
-    z-index: 0;
+    display: none;
+    z-index: 1;
+    background: /* 你的备用背景 */;
 }
 
-/* 文字内容层：置于最上层 */
 .mountain-content {
     position: relative;
-    z-index: 2;
-    width: min(100%, 1280px);
-    padding: 3.25rem 1rem 2.35rem;
-    margin: 0 auto;
+    z-index: 3;
+    min-height: 520px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 70px 24px 82px;
     text-align: center;
 }
 
+/* 文字阴影：提升可读性 */
 .mountain-content h2 {
-    margin: 0;
-    color: #ffffff;
-    font-size: clamp(1.8rem, 4vw, 3.2rem);
+    margin: 0 0 12px;
+    color: #fff;
+    font-size: clamp(34px, 5vw, 66px);
     font-weight: 700;
-    letter-spacing: -0.04em;
+    text-shadow: 0 2px 14px rgba(20, 40, 70, 0.35), 0 1px 2px rgba(20, 40, 70, 0.2);
 }
 
 .mountain-sub {
-    margin: 0.8rem auto 1.35rem;
-    max-width: 42rem;
-    color: rgba(255, 255, 255, 0.82);
-    font-size: clamp(1rem, 1.4vw, 1.15rem);
-    line-height: 1.75;
+    max-width: 680px;
+    margin: 0 auto 26px;
+    color: rgba(255, 255, 255, 0.96);
+    font-size: clamp(16px, 1.8vw, 20px);
+    line-height: 1.5;
+    text-shadow: 0 1px 8px rgba(20, 40, 70, 0.35);
 }
 
+/* CTA 按钮动画 */
 .mountain-cta {
     display: inline-flex;
     align-items: center;
-    gap: 0.55rem;
-    padding: 0.8rem 1.2rem;
+    gap: 10px;
+    padding: 12px 28px;
+    border: 2px solid rgba(255, 255, 255, 0.85);
     border-radius: 999px;
-    background: rgba(255, 255, 255, 0.12);
-    border: 1px solid rgba(255, 255, 255, 0.18);
-    color: #ffffff;
+    background: #fff;
+    color: #1d4ed8;
+    font-size: 15px;
+    font-weight: 700;
     text-decoration: none;
-    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.18);
-    backdrop-filter: blur(8px);
-    transition: background 0.2s;
+    box-shadow: 0 6px 22px rgba(20, 40, 70, 0.22), 0 2px 6px rgba(20, 40, 70, 0.15);
+    animation: mountain-cta-blink 1.8s ease-in-out infinite;
+    transition: transform 0.18s ease;
 }
 
 .mountain-cta:hover {
-    color: #ffffff;
-    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px) scale(1.02);
+    animation-play-state: paused;
 }
 
-.mountain-cta svg {
-    width: 1rem;
-    height: 1rem;
-    flex: 0 0 auto;
+@keyframes mountain-cta-blink {
+    0%, 100% {
+        opacity: 1;
+        box-shadow: 0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 0 rgba(255,255,255,0.55);
+    }
+    50% {
+        opacity: 0.78;
+        box-shadow: 0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 12px rgba(255,255,255,0);
+    }
 }
 
 .mountain-footnote {
-    margin: 1.2rem auto 0;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 0.5rem 1rem;
-    color: rgba(255, 255, 255, 0.72);
-    font-size: 0.92rem;
+    max-width: 620px;
+    margin: 38px auto 0;
+    color: rgba(255, 255, 255, 0.86);
+    font-size: 13px;
+    line-height: 1.5;
+    text-shadow: 0 1px 6px rgba(20, 40, 70, 0.35);
 }
 
-.mountain-updated::before {
-    content: '·';
-    margin-right: 1rem;
-    color: rgba(255, 255, 255, 0.42);
-}
-
-/* ===== 底部版权信息（新增） ===== */
+/* 版权信息区（独立于遮罩） */
 .footer-wrap {
     position: relative;
     z-index: 2;
@@ -511,17 +508,17 @@ h1:before, .anchor:before {
     justify-content: center;
     align-items: center;
     gap: 0.4rem 0.7rem;
-    color: rgba(255, 255, 255, 0.76); /* 版权文字为半透明白色 */
+    color: rgba(255, 255, 255, 0.76);
     font-size: 0.92rem;
 }
 
 .footer-row a {
-    color: #ffffff; /* 链接为白色 */
+    color: #ffffff;
     text-decoration: none;
 }
 
 .footer-row a:hover {
-    color: #cbd5e1; /* 悬停时变为浅灰色 */
+    color: #cbd5e1;
     text-decoration: underline;
 }
 
@@ -529,26 +526,29 @@ h1:before, .anchor:before {
     color: rgba(255, 255, 255, 0.32);
 }
 
-/* ===== 移动端适配 ===== */
-@media (max-width: 925px) {
-    .mountain-stage {
-        min-height: 360px;
-    }
-
+/* 移动端适配 */
+@media (max-width: 680px) {
+    .mountain-stage,
     .mountain-content {
-        padding: 2.1rem 1rem 1.7rem;
+        min-height: 440px;
     }
-
+    .mountain-content {
+        padding: 58px 18px 66px;
+    }
+    .mountain-content h2 {
+        font-size: 34px;
+    }
     .mountain-footnote {
         flex-direction: column;
         gap: 0.25rem;
     }
-
-    .mountain-updated::before {
-        content: none;
-    }
 }
 
+@media (hover: none), (prefers-reduced-motion: reduce) {
+    .mountain-cta {
+        animation: none;
+    }
+}
 
 
 
