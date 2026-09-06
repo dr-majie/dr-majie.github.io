@@ -575,13 +575,12 @@ h1:before, .anchor:before {
 }
 
 .author__avatar {
-    width: 100%;
-    text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .author__avatar img {
-    max-width: 160px;
-    min-width: 0;
+  margin: 0;
 }
 
 .author__content {
