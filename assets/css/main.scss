@@ -363,7 +363,7 @@ h1:before, .anchor:before {
 .mountain-footer {
     margin-top: 2.25rem;
     clear: both;
-    background: linear-gradient(180deg, rgba(5, 10, 18, 0.02) 0%, rgba(5, 10, 18, 0.18) 34%, rgba(5, 10, 18, 0.74) 100%);
+    background: transparent;
     color: rgba(255, 255, 255, 0.9);
     overflow: hidden;
     position: relative;
@@ -491,7 +491,7 @@ h1:before, .anchor:before {
     z-index: 2;
     margin-top: 0;
     padding: 1rem 1rem 1.35rem;
-    background: linear-gradient(180deg, rgba(5, 10, 18, 0.58) 0%, rgba(5, 10, 18, 0.88) 100%);
+    background: transparent;
     border-top: 0;
 }
 
