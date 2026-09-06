@@ -369,92 +369,163 @@ h1:before, .anchor:before {
 }
 
 .page__footer {
-    margin-top: 2rem;
-    padding: 1.25rem 0 1.75rem;
-    border-top: 1px solid rgba(15, 23, 42, 0.06);
+    margin-top: 0;
+    padding: 0;
+    border-top: 0;
     background: transparent;
     position: relative;
 }
 
-.footer-shell {
-    max-width: 1280px;
+.mountain-footer {
+    margin-top: 2.25rem;
+    clear: both;
+    background: #06111d;
+    color: rgba(255, 255, 255, 0.9);
+    overflow: hidden;
+    position: relative;
+}
+
+.mountain-footer::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(180deg, rgba(4, 9, 18, 0.14), rgba(4, 9, 18, 0.58) 55%, rgba(4, 9, 18, 0.88)),
+        linear-gradient(135deg, rgba(59, 130, 246, 0.16), transparent 45%),
+        linear-gradient(315deg, rgba(16, 185, 129, 0.10), transparent 40%);
+    pointer-events: none;
+    z-index: 1;
+}
+
+.mountain-stage {
+    position: relative;
+    min-height: clamp(360px, 42vw, 520px);
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.mountain-stage picture,
+.mountain-img,
+.mountain-fallback {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.mountain-img {
+    object-fit: cover;
+    object-position: center bottom;
+    display: block;
+    z-index: 0;
+}
+
+.mountain-fallback {
+    display: none;
+    background:
+        radial-gradient(circle at 22% 58%, rgba(255, 255, 255, 0.12), transparent 18%),
+        radial-gradient(circle at 74% 50%, rgba(255, 255, 255, 0.1), transparent 16%),
+        linear-gradient(180deg, #0b1320 0%, #071019 52%, #0e2438 100%);
+}
+
+.mountain-content {
+    position: relative;
+    z-index: 2;
+    width: min(100%, 1280px);
+    padding: 3.25rem 1rem 2.35rem;
     margin: 0 auto;
-    padding: 0 1rem;
-    display: grid;
-    grid-template-columns: 1.2fr 0.9fr 1fr;
-    gap: 1rem;
+    text-align: center;
 }
 
-.footer-card {
-    padding: 1.1rem 1.15rem;
-    border: 1px solid rgba(15, 23, 42, 0.08);
-    border-radius: 18px;
-    background: rgba(255, 255, 255, 0.7);
-    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.05);
-}
-
-.footer-kicker {
-    font-size: 0.82rem;
-    font-weight: 700;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-    color: var(--site-accent-strong);
-    margin-bottom: 0.55rem;
-}
-
-.footer-title,
-.footer-heading {
-    color: #0f172a;
-    font-weight: 700;
-    margin-bottom: 0.55rem;
-}
-
-.footer-title {
-    font-size: 1.02rem;
-}
-
-.footer-text {
+.mountain-content h2 {
     margin: 0;
-    color: var(--site-muted);
-    line-height: 1.7;
+    color: #ffffff;
+    font-size: clamp(1.8rem, 4vw, 3.2rem);
+    font-weight: 700;
+    letter-spacing: -0.04em;
 }
 
-.footer-card ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+.mountain-sub {
+    margin: 0.8rem auto 1.35rem;
+    max-width: 42rem;
+    color: rgba(255, 255, 255, 0.82);
+    font-size: clamp(1rem, 1.4vw, 1.15rem);
+    line-height: 1.75;
 }
 
-.footer-card li + li {
-    margin-top: 0.45rem;
+.mountain-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.8rem 1.2rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.12);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    color: #ffffff;
+    text-decoration: none;
+    box-shadow: 0 14px 32px rgba(0, 0, 0, 0.18);
+    backdrop-filter: blur(10px);
 }
 
-.footer-card a {
-    color: var(--site-text);
+.mountain-cta:hover {
+    color: #ffffff;
+    background: rgba(255, 255, 255, 0.2);
 }
 
-.footer-card a:hover {
-    color: var(--site-accent);
+.mountain-cta svg {
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 auto;
 }
 
-.footer-bottom {
-    max-width: 1280px;
-    margin: 1rem auto 0;
-    padding: 0 1rem;
-}
-
-.footer-bottom-inner {
+.mountain-footnote {
+    margin: 1.2rem auto 0;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 0.5rem;
-    padding-top: 1rem;
-    color: var(--site-muted);
+    gap: 0.5rem 1rem;
+    color: rgba(255, 255, 255, 0.72);
     font-size: 0.92rem;
 }
 
-.footer-sep {
-    opacity: 0.55;
+.mountain-updated::before {
+    content: '·';
+    margin-right: 1rem;
+    color: rgba(255, 255, 255, 0.42);
+}
+
+.footer-wrap {
+    position: relative;
+    z-index: 2;
+    margin-top: -1px;
+    padding: 1rem 1rem 1.35rem;
+    background: rgba(5, 10, 18, 0.96);
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.footer-row {
+    max-width: 1280px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem 0.7rem;
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 0.92rem;
+}
+
+.footer-row a {
+    color: #ffffff;
+}
+
+.footer-row a:hover {
+    color: #cbd5e1;
+}
+
+.footer-dot {
+    color: rgba(255, 255, 255, 0.32);
 }
 
 @media (max-width: 925px) {
@@ -474,11 +545,23 @@ h1:before, .anchor:before {
         padding: 0.9rem;
     }
 
-    .footer-shell {
-        grid-template-columns: 1fr;
+    .mountain-stage {
+        min-height: 360px;
     }
 
-    .footer-card {
-        padding: 1rem;
+    .mountain-content {
+        padding: 2.1rem 1rem 1.7rem;
+    }
+
+    .mountain-footnote {
+        flex-direction: column;
+        gap: 0.25rem;
+    }
+
+    .mountain-updated::before {
+        content: none;
     }
 }
+
+
+

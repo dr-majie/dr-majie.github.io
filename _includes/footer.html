@@ -1,39 +1,35 @@
 ---
 ---
 
-<footer class="page__footer">
-  <div class="footer-shell">
-    <div class="footer-card footer-brand">
-      <div class="footer-kicker">Jie Ma</div>
-      <div class="footer-title">Distinguished Research Professor</div>
-      <p class="footer-text">Research in multimodality learning, LLM reasoning, multi-agent orchestration, and failure attribution.</p>
-    </div>
-
-    <div class="footer-card footer-links">
-      <div class="footer-heading">Explore</div>
-      <ul>
-        <li><a href="#about-me">About</a></li>
-        <li><a href="#-news">News</a></li>
-        <li><a href="#-publications">Publications</a></li>
-        <li><a href="#-services">Services</a></li>
-      </ul>
-    </div>
-
-    <div class="footer-card footer-contact">
-      <div class="footer-heading">Contact</div>
-      <ul>
-        <li><a href="mailto:jiema@xjtu.edu.cn">jiema@xjtu.edu.cn</a></li>
-        <li><a href="https://scholar.google.com/citations?user=VsY24XkAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a></li>
-        <li><a href="https://dblp.org/pid/62/5110-1.html" target="_blank" rel="noopener">DBLP</a></li>
-      </ul>
+<section class="mountain-footer" aria-label="Footer landscape">
+  <div class="mountain-stage">
+    <picture>
+      <source type="image/webp" srcset="{{ '/images/experience/background-960.webp' | relative_url }} 960w, {{ '/images/experience/background-1440.webp' | relative_url }} 1440w, {{ '/images/experience/background-1920.webp' | relative_url }} 1920w" sizes="100vw">
+      <img class="mountain-img" src="{{ '/images/experience/background.jpeg' | relative_url }}" alt="Mountain landscape" loading="lazy" decoding="async" fetchpriority="low" onerror="this.style.display='none'; this.closest('picture').nextElementSibling.style.display='block';">
+    </picture>
+    <div class="mountain-fallback"></div>
+    <div class="mountain-content">
+      <h2>Keep Exploring</h2>
+      <p class="mountain-sub">Do what matters, even when it's hard.</p>
+      <a href="mailto:jiema@xjtu.edu.cn" class="mountain-cta">
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>
+        <span>Get in Touch</span>
+      </a>
+      <p class="mountain-footnote">
+        <span>Jie Ma · Xi'an Jiaotong University</span>
+        <span class="mountain-updated">Last updated: {{ site.time | date: '%B %-d, %Y' }}</span>
+      </p>
     </div>
   </div>
 
-  <div class="footer-bottom">
-    <div class="footer-bottom-inner">
+  <div class="footer-wrap">
+    <div class="footer-row">
       <span>© {{ site.time | date: '%Y' }} Jie Ma</span>
-      <span class="footer-sep">·</span>
-      <span>Built with Jekyll and Minimal Mistakes</span>
+      <span class="footer-dot">·</span>
+      <span>Built with Jekyll</span>
+      <span class="footer-dot">·</span>
+      <a href="#about-me">Back to top</a>
     </div>
   </div>
-</footer>
+</section>
+
