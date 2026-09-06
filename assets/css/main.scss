@@ -360,194 +360,248 @@ h1:before, .anchor:before {
     position: relative;
 }
 
-/* ===== 底部山景背景 ===== */
+/* Mountain footer */
 .mountain-footer {
-    margin-top: 2.25rem;
-    clear: both;
-    background: transparent;
-    overflow: hidden;
-    position: relative;
+  position: relative;
+  width: 100%;
+  margin-top: 18px;
+  overflow: hidden;
 }
 
 .mountain-stage {
-    position: relative;
-    width: 100%;
-    min-height: 520px;
-    overflow: hidden;
+  position: relative;
+  width: 100%;
+  min-height: 520px;
+  overflow: hidden;
 }
 
-/* 遮罩层：在图片之上，内容之下 */
 .mountain-stage::before {
-    content: "";
-    position: absolute;
-    inset: 0;
-    z-index: 2;
-    pointer-events: none;
-    background: linear-gradient(
-        to bottom,
-        rgba(255, 255, 255, 1) 0%,
-        rgba(255, 255, 255, 0.92) 8%,
-        rgba(255, 255, 255, 0.72) 22%,
-        rgba(255, 255, 255, 0.42) 42%,
-        rgba(255, 255, 255, 0.18) 65%,
-        rgba(255, 255, 255, 0.05) 82%,
-        rgba(255, 255, 255, 0) 100%
-    );
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 2;
+  pointer-events: none;
+  background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(255,255,255,0.92) 8%, rgba(255,255,255,0.72) 22%, rgba(255,255,255,0.42) 42%, rgba(255,255,255,0.18) 65%, rgba(255,255,255,0.05) 82%, rgba(255,255,255,0) 100%);
 }
 
-.mountain-stage picture,
-.mountain-img,
-.mountain-fallback {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
+.mountain-stage .mountain-img {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
-.mountain-img {
-    object-fit: cover;
-    object-position: center bottom;
-    display: block;
-    z-index: 1;
+.mountain-stage picture {
+  display: block;
 }
 
 .mountain-fallback {
-    display: none;
-    z-index: 1;
-    background: /* 你的备用背景 */;
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  background: linear-gradient(180deg,#cfe1f5 0%,#aecbe9 18%,#8aa9cf 38%,#5f7da3 60%,#3d5577 78%,#243349 100%);
+}
+
+.mountain-fallback::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 65%;
+  background: radial-gradient(ellipse 60% 50% at 30% 100%, rgba(255,255,255,0.55), transparent 70%), radial-gradient(ellipse 70% 60% at 75% 100%, rgba(255,255,255,0.65), transparent 70%), linear-gradient(180deg, transparent 0%, rgba(255,255,255,0.25) 60%, rgba(255,255,255,0.55) 100%);
+  clip-path: polygon(0% 100%,0% 55%,12% 38%,22% 50%,33% 22%,45% 45%,55% 30%,68% 10%,78% 38%,88% 25%,100% 50%,100% 100%);
 }
 
 .mountain-content {
-    position: relative;
-    z-index: 3;
-    min-height: 520px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-end;
-    padding: 70px 24px 82px;
-    text-align: center;
+  position: relative;
+  z-index: 3;
+  min-height: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 70px 24px 82px;
+  text-align: center;
 }
 
-/* 文字阴影：提升可读性 */
 .mountain-content h2 {
-    margin: 0 0 12px;
-    color: #fff;
-    font-size: clamp(34px, 5vw, 66px);
-    font-weight: 700;
-    text-shadow: 0 2px 14px rgba(20, 40, 70, 0.35), 0 1px 2px rgba(20, 40, 70, 0.2);
+  margin: 0 0 12px;
+  color: #fff;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: clamp(34px, 5vw, 66px);
+  line-height: 1.08;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-shadow: 0 2px 14px rgba(20,40,70,0.35), 0 1px 2px rgba(20,40,70,0.2);
 }
 
-.mountain-sub {
-    max-width: 680px;
-    margin: 0 auto 26px;
-    color: rgba(255, 255, 255, 0.96);
-    font-size: clamp(16px, 1.8vw, 20px);
-    line-height: 1.5;
-    text-shadow: 0 1px 8px rgba(20, 40, 70, 0.35);
+.mountain-content .mountain-sub {
+  max-width: 680px;
+  margin: 0 auto 26px;
+  color: rgba(255,255,255,0.96);
+  font-size: clamp(16px, 1.8vw, 20px);
+  line-height: 1.5;
+  text-shadow: 0 1px 8px rgba(20,40,70,0.35);
 }
 
-/* CTA 按钮动画 */
 .mountain-cta {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
-    padding: 12px 28px;
-    border: 2px solid rgba(255, 255, 255, 0.85);
-    border-radius: 999px;
-    background: #fff;
-    color: #1d4ed8;
-    font-size: 15px;
-    font-weight: 700;
-    text-decoration: none;
-    box-shadow: 0 6px 22px rgba(20, 40, 70, 0.22), 0 2px 6px rgba(20, 40, 70, 0.15);
-    animation: mountain-cta-blink 1.8s ease-in-out infinite;
-    transition: transform 0.18s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 28px;
+  border: 2px solid rgba(255,255,255,0.85);
+  border-radius: 999px;
+  background: #fff;
+  color: #1d4ed8;
+  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 1;
+  text-decoration: none;
+  box-shadow: 0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15);
+  animation: mountain-cta-blink 1.8s ease-in-out infinite;
+  transition: transform 0.18s ease;
 }
 
 .mountain-cta:hover {
-    transform: translateY(-2px) scale(1.02);
-    animation-play-state: paused;
+  color: #1d4ed8;
+  transform: translateY(-2px) scale(1.02);
+  animation-play-state: paused;
 }
 
-@keyframes mountain-cta-blink {
-    0%, 100% {
-        opacity: 1;
-        box-shadow: 0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 0 rgba(255,255,255,0.55);
-    }
-    50% {
-        opacity: 0.78;
-        box-shadow: 0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 12px rgba(255,255,255,0);
-    }
+.mountain-cta svg {
+  width: 15px;
+  height: 15px;
+  flex: 0 0 auto;
 }
 
 .mountain-footnote {
-    max-width: 620px;
-    margin: 38px auto 0;
-    color: rgba(255, 255, 255, 0.86);
-    font-size: 13px;
-    line-height: 1.5;
-    text-shadow: 0 1px 6px rgba(20, 40, 70, 0.35);
+  max-width: 620px;
+  margin: 38px auto 0;
+  color: rgba(255,255,255,0.86);
+  font-size: 13px;
+  line-height: 1.5;
+  text-shadow: 0 1px 6px rgba(20,40,70,0.35);
 }
 
-/* 版权信息区（独立于遮罩） */
-.footer-wrap {
-    position: relative;
-    z-index: 2;
-    margin-top: 0;
-    padding: 1rem 1rem 1.35rem;
-    background: transparent;
-    border-top: 0;
+.mountain-footnote > span {
+  display: block;
 }
 
-.footer-row {
-    max-width: 1280px;
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 0.4rem 0.7rem;
-    color: rgba(255, 255, 255, 0.76);
-    font-size: 0.92rem;
+.mountain-template {
+  margin-top: 8px;
 }
 
-.footer-row a {
-    color: #ffffff;
-    text-decoration: none;
+.mountain-updated {
+  margin-top: 6px;
+  color: rgba(255,255,255,0.78);
 }
 
-.footer-row a:hover {
-    color: #cbd5e1;
-    text-decoration: underline;
+.mountain-template img {
+  width: 66px;
+  height: auto;
+  margin-right: 6px;
+  vertical-align: -3px;
 }
 
-.footer-dot {
-    color: rgba(255, 255, 255, 0.32);
+.mountain-template a {
+  color: #fff;
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-color: rgba(255,255,255,0.55);
+  text-underline-offset: 3px;
 }
 
-/* 移动端适配 */
+.mountain-template a:hover {
+  color: #fef3c7;
+  text-decoration-color: #fef3c7;
+}
+
+@keyframes mountain-cta-blink {
+  0%,100% { opacity:1; box-shadow:0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 0 rgba(255,255,255,0.55); }
+  50% { opacity:0.78; box-shadow:0 6px 22px rgba(20,40,70,0.22), 0 2px 6px rgba(20,40,70,0.15), 0 0 0 12px rgba(255,255,255,0); }
+}
+
+/* Cursor glow + ripples (disabled)
+#cursor-glow {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 60;
+  width: 360px;
+  height: 360px;
+  margin: -180px 0 0 -180px;
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  background: radial-gradient(circle at center, rgba(255,182,92,0.16) 0%, rgba(255,200,128,0.10) 32%, rgba(255,224,176,0.04) 56%, rgba(255,255,255,0) 72%);
+  transform: translate3d(-9999px, -9999px, 0);
+  transition: opacity 0.4s ease;
+  will-change: transform;
+}
+
+.cursor-ripple {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 59;
+  width: 22px;
+  height: 22px;
+  margin: -11px 0 0 -11px;
+  border: 1.5px solid rgba(255,176,80,0.32);
+  border-radius: 50%;
+  pointer-events: none;
+  opacity: 0;
+  transform: translate3d(var(--x,-9999px), var(--y,-9999px), 0) scale(0.3);
+  will-change: transform, opacity;
+}
+
+.cursor-ripple.go {
+  animation: cursor-ripple-spread 0.8s ease-out forwards;
+}
+
+@keyframes cursor-ripple-spread {
+  0% { opacity: 0.45; transform: translate3d(var(--x), var(--y), 0) scale(0.3); }
+  100% { opacity: 0; transform: translate3d(var(--x), var(--y), 0) scale(2.3); }
+}
+*/
+
+@media (max-width: 1500px), (max-height: 560px) {
+  .section-drip-nav {
+    display: none;
+  }
+}
+
 @media (max-width: 680px) {
-    .mountain-stage,
-    .mountain-content {
-        min-height: 440px;
-    }
-    .mountain-content {
-        padding: 58px 18px 66px;
-    }
-    .mountain-content h2 {
-        font-size: 34px;
-    }
-    .mountain-footnote {
-        flex-direction: column;
-        gap: 0.25rem;
-    }
+  .mountain-stage,
+  .mountain-content {
+    min-height: 440px;
+  }
+
+  .mountain-content {
+    padding: 58px 18px 66px;
+  }
+
+  .mountain-content h2 {
+    font-size: 34px;
+  }
 }
 
 @media (hover: none), (prefers-reduced-motion: reduce) {
-    .mountain-cta {
-        animation: none;
-    }
+  /* Cursor effects are currently disabled.
+  #cursor-glow,
+  .cursor-ripple {
+    display: none;
+  }
+  */
+
+  .mountain-cta {
+    animation: none;
+  }
 }
 
 
