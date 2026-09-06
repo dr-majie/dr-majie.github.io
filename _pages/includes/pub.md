@@ -74,6 +74,7 @@
 	</ul>
 </div>
 
+</section>
 <section class="publication-group" data-group="accepted">
 <h2 class="publication-heading">Published or Accepted Papers</h2>
 <div>
