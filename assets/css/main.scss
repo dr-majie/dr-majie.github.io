@@ -606,6 +606,13 @@ h1:before, .anchor:before {
 
 
 
+/* Keep the author profile above the page content so offset/decorative blocks
+   in the article can not swallow taps on the sidebar links */
+.sidebar {
+    position: relative;
+    z-index: 10;
+}
+
 /* Sidebar breathing room */
 @include breakpoint($large) {
     .sidebar {
