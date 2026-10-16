@@ -1,4 +1,7 @@
 # 🎖 Honors and Awards
+- *08/2026* Featured English Poster, China Conference on Knowledge Graph and Semantic Computing (CCKS)
+- *07/2026* Faculty Advisor, Team Third Prize (Preliminary Round), Business Plan Track of the 21st China Graduate Electronics Design Contest
+- *07/2026* Faculty Advisor, Team Third Prize, Northwest Regional Competition of the 21st China Graduate Electronics Design Contest
 - *03/2026* Outstanding Undergraduate Advisor of the Faculty of Electronic and Information Engineering
 - *12/2025* Instructor of the second prize winner in the second CCF Algorithm Capability Competition
 - *12/2025* Best Paper Award of the MLAIA 2025
