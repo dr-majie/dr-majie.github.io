@@ -1,4 +1,5 @@
 # 📰 News
+- [10/2026] I served as an Area Chair for ICML 2027.
 - [08/2026] One paper was accepted by EMNLP 2026.
 - [08/2026] I served as an Area Chair for ICLR 2027.
 - [07/2026] One paper was accepted by "计算机研究与发展".
@@ -10,10 +11,10 @@
 - [12/2025] We won the MLAIA best paper award.
 - [11/2025] I served as an Area Chair for ICML 2026.
 - [11/2025] I was supported by the CIPS-LMG Huawei Cloud Brainstorming Fund.
-- [09/2025] Two papers are accepted by NeurIPS 2025.
 <details>
   <summary>More News</summary>
  <pre>
+ 57. [10/2026] I served as an Area Chair for ICML 2027.
  56. [08/2026] One paper was accepted by EMNLP 2026.
  55. [08/2026] I served as an Area Chair for ICLR 2027.
  54. [07/2026] One paper was accepted by "计算机研究与发展".
