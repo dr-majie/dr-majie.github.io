@@ -46,7 +46,9 @@
         var matchedPublication = null;
         var publicationParent = element.parentElement;
 
-        if (publicationParent && publicationParent.lastElementChild !== element) {
+        // Always move the badge to the end of the entry. Checking only
+        // lastElementChild misses trailing text nodes such as ". COLM, 2026."
+        if (publicationParent) {
           publicationParent.appendChild(element);
         }
 
